@@ -10,7 +10,7 @@
 
 This package has been rebuilt from the paper outward. The article estimates the full cost of California-corridor air travel using airway infrastructure/FAA allocation tables, terminal and airside airport cost models, carrier cost assumptions, congestion and user-time calculations, accident rates, noise estimates, and air-pollution cost estimates. The package stages the air-specific Full Cost Project files that correspond to those calculations.
 
-The package is treated as `READY-TO-UPLOAD/PUBLIC` because the selected materials are aggregate/model/statistical inputs, legacy model workbooks, and source workpapers. No individual-level records were identified in the selected payload. Repository-level provenance wording should still identify the underlying public/statistical sources, including FAA cost-allocation reports, airport operating/capital-cost summaries, carrier cost references, NTSB accident statistics, and published noise/pollution valuation sources.
+The package is treated as `UPLOADED` because the selected materials are aggregate/model/statistical inputs, legacy model workbooks, and source workpapers. No individual-level records were identified in the selected payload. Repository-level provenance wording should still identify the underlying public/statistical sources, including FAA cost-allocation reports, airport operating/capital-cost summaries, carrier cost references, NTSB accident statistics, and published noise/pollution valuation sources.
 
 Repeated Full Cost report/social-cost workbooks are not duplicated here. The Full Cost report PDF, air noise/congestion workbooks, and social-cost charts live under `_shared_sources/full-cost-intercity-transportation-1996/`; this package keeps pointer documentation plus the air-paper-specific airport cost workbooks and source workpapers.
 
@@ -42,7 +42,7 @@ No further hard-drive search is expected for this paper. Before public upload, w
 
 Generated: 2026-05-20 15:23:47 AEST
 
-- Pipeline: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline: `UPLOADED`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
 - Paper reference copies are for local audit convenience and are not public-upload assets without rights review.
 - Final GitHub upload should use the manifest include statuses and the license-status note.

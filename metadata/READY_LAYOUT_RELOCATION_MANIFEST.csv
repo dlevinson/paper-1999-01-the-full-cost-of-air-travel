@@ -1,2 +1,2 @@
 row_id,title,pipeline,action,classification,confidence,reason,old_relative_path,new_relative_path,size_bytes,sha256_before,sha256_after,checksum_match
-paper-1999-01,The Full Cost Of Air Travel,READY-TO-UPLOAD/PUBLIC,moved,data,high,data suffix,DEDUP_POINTER_MANIFEST.csv,data/DEDUP_POINTER_MANIFEST.csv,4473,c6a29d3358ce04e4a7fb696b658a09e06ba7c8b22f1713113073d45b6663eb1a,c6a29d3358ce04e4a7fb696b658a09e06ba7c8b22f1713113073d45b6663eb1a,yes
+paper-1999-01,The Full Cost Of Air Travel,UPLOADED,moved,data,high,data suffix,DEDUP_POINTER_MANIFEST.csv,data/DEDUP_POINTER_MANIFEST.csv,4473,c6a29d3358ce04e4a7fb696b658a09e06ba7c8b22f1713113073d45b6663eb1a,c6a29d3358ce04e4a7fb696b658a09e06ba7c8b22f1713113073d45b6663eb1a,yes
