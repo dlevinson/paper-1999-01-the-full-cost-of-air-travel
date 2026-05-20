@@ -1,0 +1,714 @@
+Àõ7#$OV	P√Üt$t$√©√©√©√©‚à´‚â§‚Ä∞‚â§‚Ä∞‚â§‚Ä∞‚â§‚Ä∞
+‚â•p‚â•p‚â•p.‚â•√ªx√©¬ª$
+¬• ¬•6¬µ‚àÇ*¬µ‚Ä°P√å√©¬µ‚àÇ¬•Og¬µ‚àÇ¬µ‚àÇ√ï<¬µ‚àÇ¬µ‚àÇ¬µ‚àÇ¬µ‚àÇ¬µ‚àÇ¬µ‚àÇASSESSMENT OF THE FULL COST OF
+ALTERNATIVE INTERCITY MODES
+OF TRANSPORTATION IN CALIFORNIA
+Working Paper 4: External Costs of Accidents
+
+by David Levinson
+
+
+
+submitted to
+Adib Kanafani
+and David Gillen
+
+1. Introduction
+	Accidents afflict all modes of transportation, but rates for highway accidents are much higher than for air or rail.  Over 40,000 people die in the United States every year in highway accidents, over 5 million are injured (Miller, 1991).  Moreover, accidents cause countless hours of delay to those who are stuck in traffic behind them.    This section will provide estimates on the cost of accidents for highway and air transportation modes.   It has been found after many years of operation in both Japan and France that high speed rail can be made safe from accidents.  So high speed rail is not discussed here, its cost of accidents beyond its capital and operating costs can be effectively considered zero.
+	The next section will discuss accident rates for highway and air transportation.  This will be followed by a discussion of the damage costs of accidents.  The idea of protection is introduced, but no data is available to establish an accident prevention supply curve.  Finally, the accident rates are combined with damage costs to estimate the full cost of life and safety from accidents for highway and air travel. Cost allocation, incidence, and recovery are discussed.  The inter-relationship between accident costs and costs from other sectors is touched upon.
+2.  Accident Rates
+Accident rates differ greatly by mode.  Highways and air are taken in turn in this section.  Comparing across modes shows that buses, followed by scheduled airlines and conventional passenger rail are far safer than the passenger automobile (excluding trucks).
+TABLE: Fatality Rates by Passenger Mode
+Mode1991 Passenger
+Deaths1991 Passenger
+Miles (billions)1991 Deaths per 100,000,000
+Passenger Miles1989-91 Average Death RatePassenger Automobile222152300.50.971.05Buses25128.10.020.03- School Bus983.30.010.02- Transit Bus221.30.010.01- Intercity Bus623.50.030.01Railroad Passenger Train813.60.060.05Scheduled Airline104338.10.030.02source; Natinoal Safety Council 1993 (p.95)
+Highway
+There are a number of sources recording highway accidents. The National Highway Traffic Safety Administration has two databases: NASS - the National Accident Sampling System and FARS, the Fatal Accident Reporting System.  In addition, each state keeps records, as does the insurance industry, the National Council on Compensation Insurance DCI (Detailed Claims Information) database.  Injuries are typically classified according the following scheme, along with the percentage of crashes associated with each category.  Only a small proportion of accidents result in death or incapacitating injury:
+TABLE: Accidents by Classification
+ClassificationPercent of CrashesPercent of PeopleKKilled/Fatal Injury0.30.1AIncapacitating Injury2.91.5BNonincapacitating/ Evident Injury5.63.0CPossible Injury7.64.8OProperty Damage31.236.2Unreported52.454.4source: Miller 1991
+note: the number of unreported accidents was estimated from surveys.  The total number of crashes was computed for the years 1982-85 and was 14,800,000 affecting 38,146,000 people.
+	The actual rates of accidents are also not immediately apparent.  Many crashes, particularly minor accidents without loss of life or major injury, are not reported to the police or insurance industry for obvious reasons.   However, we proceed with reported accidents.
+TABLE: Number of Accidents on California Freeways
+California
+(1993)Road
+MilesTravel
+(MVM)Accidents
+TotalProperty
+Damage
+OnlyInjuryFatalKilledRural Fwy193519592890149423692267338Urban Fwy219092315794595349325463503562source: Caltrans 1993
+	Using the following equations to compute accident and fatality rates, California-specific rates can be computed:
+Accident Rate (AR) = (# Accidents x 1,000,000) / VMT
+Fatality Rate (FR) = (# Victims x 100,000,000) / VMT
+	The following table shows accident rates by automobile on rural and urban highways in California.  There is a general trend toward a reduction in the rate of accidents, and in their fatality.  Safety features such as seat belt usage, air bags, anti-lock brakes, and better design, as well as lower speeds due to congestion in urban areas may be a factor.  On the other hand, higher speed limits in rural areas may have a safety cost.  To what extent technology continues to improve safety in the future remains an unsettled question.
+TABLE: Accident Rates in California
+RuralUrbanYearAccidents
+Total/MVM(Injured+
+Fatal )/MVMFatal/ 100MVMAccidents
+Total/MVM(Injured+
+Fatal )/MVMFatal/ 100MVM1989.50.202.08.92.34.871990.47.231.85.91.33.801991.45.221.60.90.32.741992.43.201.35.88.31.621993.45.201.73.86.28.61source: Caltrans 1993
+It should be noted that while there are more accidents proportionately in urban areas, the share of fatal accidents is much less than in rural areas, as urban accidents tend to be at lower speed.
+Air
+Aviation accident statistics are collected by the National Transportation Safety Board.  The following table compares accident rates for large airlines, commuter airlines, air-taxis, and general aviation, which are in descending order in safety.  There are no clear trends over time for the years 1988-92.
+TABLE: U.S. Civil Aviation Accidents, Deaths, and Death Rates
+AccidentsDeathsAccident Rates per 100,000 Aircraft HoursAccident Rates per Million Aircraft-MilesYearTotalFatalTotalFatalTotalFatalLarge Airlines19882932850.2510.0180.00620.0004198928112780.2480.0980.00610.00241990266390.2140.0490.00520.00121991274500.2270.0340.00560.00081992194530.1550.0330.00380.0008Commuter Airlines1988192210.9080.0960.0500.0051989185310.8030.2230.0460.013199015360.6420.1280.0330.0071991228771.0130.3680.0580.0211992237211.0550.3210.0560.017On-Demand Air Taxis198810128593.841.06--198911125833.680.83--199010828494.821.25--19918826733.931.16--19927424663.321.08--General Aviation198823684608008.691.68--198922334327687.981.53--199022184457637.781.56--199121434147467.871.52--199219564088127.191.50--source: National Safety Council 1993  (p.96)
+Fatalities, though dominant, are not the only cost of an air accident.  For scheduled major carriers (14 CFR 121), the following statistics are given for 1992:
+TABLE: Major Air Carrier Accidents Injury Classifcation
+Degree of InjuryNumber of PersonsFatal31Serious19Minor29None1825Total1904source: National Transportation Safety Board 1992
+3. Damage Costs of Accidents
+3.1 Methods of Measurement
+	Years Lost plus Direct Cost - This method estimates the number of years lost to an accident due to death and years lost from non-fatal injuries.  It also estimates the monetary costs of non-life damages.  However it keeps life in non-monetary terms.   While it may have some moral advantages in that we need place a dollar value on life, there are very practical reasons for doing so - how do we assess whether an improvement, with a certain construction cost and life-saving potential, is worthwhile?
+	Comprehensive -  The comprehensive method extends the Years Lost plus Direct Cost method by placing a value on human life.  The principle means for doing so is by looking at the trade-offs people make when choosing to conduct an activity with a certain risk level versus another activity at a different risk, but different cost/time.   Studies are based both on what people actually pay and what they are willing to pay, and use a variety of revealed preference techniques.  This method is preferred by the US Federal Highway Administration
+	Human Capital - This method is used in the Australian study Social Cost of Road Accidents.  However Miller (1991) and others dislike the method because the only effects of injury that it counts is out-of-pocket costs plus lost work and housework.  By extension, it places low value on children and perhaps even a negative value on the elderly.  While measuring human capital is a necessary input to the costs of accidents, it cannot be the only input.
+	Willingness-to-Pay -Jones-Lee (1990) discusses the willingness-to-pay approach to valuing safety.   Willingness-to-pay studies generally fall into two classes: revealed preference and stated preference.  Each apprach has problems, for instance revealed preference studies which compare wage and risks may pick up what regulators  are willing to allow rather than what the market price would be.   Stated preference has the problem that without real consequences or complete information, accurate estimates of value are difficult to make.
+3.2 Converting Injuries to Years of Life Lost
+	Placing a value on injury requires measuring its severity.  Miller (1993) describes a year of functional capacity (365 days/year, 24 hours/day) as consisting of several dimensions: Mobility, Cognitive, Self Care, Sensory, Cosmetic, Pain, Ability to perform household responsibilities, and Ability to perform wage work.
+Percentage of Hours Lost to Injuries by Category:
+ModestMajorFatalTotalMAIS 1,2MAIS3-5Functioning18.040.741.3100.0HH Production25.222.152.7100.0Work21.719.159.2100.0source Miller (1991) p.26
+Functional Years lost by MAIS
+MAISPer InjuryPercent of LifespanPer YearPercent of Annual TotalMinor0.070.15316,60010.7Moderate1.12.3587,70020.0Serious6.513.81,176,70040.0Severe16.535.0446,70015.2Critical33.170.0413,80014.1Avg. Nonfatal0.71.52,941,500100.0Fatal42.7100.02.007,000source Miller (1991) p29 (note expected lifespan for nonfatally injured averages 47.2 years)
+The issue arises as to the discount rate to be used in safety decisions.  It is expected that you would pay more to avoid injury today than on some specific future date for several reasons: technology may make the injury less severe in the future, or you may die sometime between now and that date.  Empirical studies have found an average implicit discount rate from 1 to 14% (Moore and Viscusi, 1990) - a value of 4% is used in Miller (1991).
+Loss in each of the functional areas are combined to provide estimates of total functional loss.
+
+Comprehensive costs
+SeverityPer PersonPer CrashK-Fatal$2,392,742$2,722,548A-Incapacititating169,506228,568B-Evident33,22748,333C-Possible17,02925,288O-Property Damage1,7344,489Unreported1,6014,144A-B-C reported nonfatal46,35569,592K-A-B-C reported injury77,153115,767assuming 1988 dollars and 4% discount rate
+source Miller (1991) p39.
+By cost component category, costs per person in accidents:
+Cost Component CategoryAll Reported AccidentsHospital/Medical588Vocation/Rehabilitation7Household Production503Wages1993Insurance Administration379Workplace Costs117Emergency Services50Travel Delay100 Legal/Court429Property Damage1351Human Capital Subtotal5517Pain and Suffering11788Comprehensive Subtotal17305Direct Costs3021Years Lost0.13source Miller (1991) p 42
+These costs are in general higher than estimates previously used by NHTSA (1983), Miller discusses the differences in depth.
+Costs vary by location, rural crashes, (at $85,614/crash) which occur more often on freeways and at higher speeds, are more expensive than urban crashes (at $32,324/crash) (Miller, 1991) p.83.  Further rural interstates are ($92,436/crash) as interstate crashes are more expensive than accidents on other roads.
+
+3.3 Estimates of Value of Life
+Estimated Value of Life by type of study
+Average of 49 studies$2.2 MAverage of 11 auto safety studies2.1 MStudy TypeExtra wages for risky jobs (30 studies)1.9-3.4 MMarket demand vs. price     safer cars2.6 M     smoke detectors1.2 M     houses in less polluted areas2.6 M     life insurance3.0 M    wages2.1 MSafety behavior     pedestrian tunnel use2.1 M     safety belt use (2 studies)2.0 - 3.1 M     speed choice (2 studies)1.3 -2.2 M     smoking 1.0 MSurveys      Auto safety (5 studies)1.2-2.8 M      Cancer2.6 M     Safer Job2.2 M     Fire Safety3.6 Msource Miller (1990), in millions (M) of 1988 after-tax dollars.
+4. Protection Costs of Accidents
+
+	Are accidents fungible?  If we expect that a facility will result in X accidents, is it sufficient to say that we can compensate for its damages by reducing the total number of expected accidents  by X throughout the transportation system? Or must we have 0 accidents on the facility in question in order to say the damages are irrelevant?
+
+	It is the argument of this paper that accidents are fungible, and that protection measures undertaken (on or off the facility) can offset the increase in accidents due to a new project.  However, the scope of this report did not permit us to establish the marginal cost per life saved of a safety improvement.
+
+	Ideally, the methodology would be derived from a large sample of engineering studies, ranked based on cost effectiveness, to approximate a supply curve of accident protection.  Zegeer (1990) has examined this issue to a small extent on horizontal curves, but to date there is no comprehensive study.
+5. The Full Cost of Accidents
+While without any demand for accidents, it is not possible to estimate the total cost of accidents, the cost per passenger mile can be estimated by multiplying the value of life and the accident rate, after adjusting injuries to fractions of life.
+Highway
+Taking Miller‚Äôs value of $92,436 for crashes on rural interstates and $32,324 for urban crashes, and California accident rates for 1993,  we have the following estimated cost per million vehicle miles (top row) and per million vehicle kilometers.
+
+YearRural Rate
+/MVMRural CostCost
+/VehMileUrban Rate
+/MVMUrban CostCost
+/VehMile1993.45$92,4360.042.86$32,3240.028YearRural Rate
+/MVkmRural CostRural Cost
+/VehkmUrban Rate
+/MVkmUrban CostUrban Cost
+/Vehkm1993.27$92,4360.025.52$32,3240.017These results are consistent with, though not identical to other studies, which give the following costs of accidents by mode (Canadian cents per 100 Pkm or Tkm):
+CountryYearCar
+pkmBus
+pkmPass. Rail (conventional)
+pkmTruck
+tkmFreight
+Rail tkmInland Water
+tkmGermany19902.830.510.441.620.010.01France19851.040.004Belgium19850.480.19Switzerland19914.201.020.574.960.04Sweden
+urban19877.061.770.181.77Sweden
+interurban198712.360.180.18USA19902.830.600.51source: IBI Group (1995)
+Air
+AccidentsDeathsAccident Rates per 100,000 Aircraft HoursAccident Rates per Million Aircraft-MilesYearTotalFatalTotalFatalTotalFatalLarge Airlines1992194530.1550.0330.00380.0008Commuter Airlines1992237211.0550.3210.0560.017If, for large airlines we have 0.0008 fatal accidents per million aircraft miles, an average number of passengers per flight of 100, an average of 13 deaths per fatal crash, and a value of life of $2.4 million, then the cost for accidents per passenger mile on large aircraft is $0.00025 ($0.00042 pkm) .  Taking more conservative values of life and including non-life costs (injury and medical, accident cleanup, etc.), and assuming a higher number of fatalities could quadruple the estimate to $0.001 ($0.0017 pkm) .   This range of estimates is consistent with Canadian estimates of accident costs ($0.001 pkm 1994 canadian cents).
+For commuter airlines, the estimate is somewhat higher: 0.017 fatal accidents, 25 passengers per flight, 3 deaths per fatal crash, and the same value of life gives the cost for accidents of $0.005 ($0.0083 pkm) .  Again taking more conservative values, we get $0.02 ($0.033 pkm)  as a higher cost estimate per passenger mile on commuter aircraft.
+
+
+
+6. Incidence, Cost Allocation, and Recovery
+	Obviously, some costs of crashes fall on involved individuals, some on their insurance companies, and some on society at large.  Therefore some of the costs are internal to the driver, some are external to the driver, but internal to transportation, and some are external to transportation.
+	The externality effects of transport risk can be divided into two categories: the risk to the driver himself, and the risk to everyone else (other drivers, passenger, pedestrians, etc.).  These include death, injury and disablement, and property damage.  The paper provides estimates of these costs.  It then discusses means for internalizing these costs.
+	Transport safety in the common carrier segment has significant asymmetries of information.  For instance, the bus company knows the condition of the vehicle much better than the passenger.  This is an argument for regulation.  There is also the consequence of a disaster, associated with a common carrier, which garners media attention, unlike a single car accident.
+
+ Miller (1991) estimates the following:
+Cost CategoryAll SourcesFedStateAuto InsuranceHealth InsuranceWorkers Comp.Life InsuranceDisability InsuranceOther & SickSelfMedical12.60.70.42.26.10.40.82.0Emergency Services0.90.9Productivity51.11.60.221.00.851.20.80.924.5Income Tax7.05.81.2Workplace2.42.4Legal/Court7.97.90.02Admin7.80.070.046.830.510.170.170.110.07Travel Delay2.02.0Prop Damage38.324.913.4TOTAL130.08.172.7462.836.611.441.310.816.139.9
+source Miller (1991) p.105, 2.5% discount rate, 1988 dollars (Billions), excludes pain & suffering
+{NOTE: CONVERT TO PERCENTAGES}
+INTER-RELATIONSHIPS
+The relationship of safety costs to  other cost sectors must be recognized.  First are infrastructure.   Clearly some part of infrastructure cost is based on design standards to ensure a certain safety level.  It is too much to claim that high speed rail has no safety costs, though there are no recorded accidents.  Rather,  a high investment in safety, mostly compatible with its investment in speed, has been undertaken to avoid accidents up front through system design.
+
+	Similarly, carrier or vehicle costs are based in part on regulations and consumer choice to ensure certain safety level.  The reason the auto fatality rates have declined is in part due to higher standards.  Vehicle costs have risen, while accident costs have declined.  We hope the trade-off was beneficial.
+
+
+	Accidents are clearly one of the primary causes of non-recurring congestion, to which class (accident, congestion) do we attribute the cost?  There also should be some consistency between the value of life and the value of time, as Ezra Hauer (1993) put it ‚ÄúIs it better to be dead than stuck in traffic?‚Äù
+
+	The relationships between accidents and the other sectors are more fluid, for instance the cost of the rare hazardous materials accident, the value of non-recurring noise, and temporary social severance due to an accident.
+
+
+REFERENCES
+source: Accident Facts: 1993 Edition, National Safety Council, p.96
+Hauer, Ezra (199x) Is it better to be dead than stuck in traffic ... TR
+Miller, Ted (1991)
+Jones-Lee
+Social Cost of Road Accidents in Australia
+Zegeer 1990 Safety Improvements on Horizontal Curves, INCBEN (McFarland etc.)
+National Transportation Safety Board (1992) Annual Review of Aircraft Accident Data: U.S. Air Carrier Operations Calendar Year 1992 (TL553.5.A22 1992)
+Department of California Highway Patrol 1993 Annual Report of Fatal and Injury Motor Vehicle Traffic Accident (HE 5614.3 C241)
+IBI Group (1995) Full Cost Transportation Pricing Study: Final Report  to Transportation and Climate Change Collaborative.
+}~	The principal means for estimating the cost of accidents is to estimate their damage costs.  The method presented here uses a comprehensive approach which includes √§√∫√π√ïÔ¨Å‚Ä∫Ô£ø	‚Ä¶	‚Äî9=no
+W
+X
+s
+O
+\ m z"2"D$N$|-V-s/k/√§242U6617)71;_;c@L@M@P@|GWGkL√≥L¬¢OVO[O{O∆íO‚óäPt$t,tFtNt[tÔ¨ÅtÔ£øt√íu u%u9umutu√ëu√£u√µu√ªu¬∞u¬ßu√üu‚Ñ¢u¬¥u¬®u√Äu√Év,v|v}v√ëv√ñv√úv√†v√¢v√§v√≥v√πv√ªw‚àèwœÄw√∏w¬°w¬¨w‚àöÀõ¬ØÀõÀõ√õ√õ√õÀõ√õ√õ√õ√õÀõÀõÀõÀõÀõ√õ√õ√õÀõÀõÀõ√å√åÀõÀõÀõÀõÀõÀõÀõÀõÀõ
+"29IZw√°¬¢¬£‚àè√¶‚âà¬†≈ì‚Äì√∑≈∏Ô¨Ç‚Ä∞√à√çÀúÀòÀõ						
+	#	(	)	9	;	@	E	J	K	dÀúÀúÀúÀúÀúÀú√ìÀúÀúÀúÀú√äÔ¨Å√∑≈í‚àÜ≈íŒ©Œ©Œ©¬•¬•¬¥Œ©¬¢√≠Œ©Œ©¬•Œ©¬•√≠Œ©Œ©¬•Œ©¬•√≠Œ©Œ©¬•Œ©¬•√≠Œ©Œ©¬•Œ©¬•√≠Œ©Œ©¬•Œ©¬•√≠¬¥√ÆP√≤Àá‚àûp
+0Ô£ø‚àû!p,
+Àù0Ô£ø!¬ø
+Àù0Ô£ø!¬ø
+Àù0Ô£ø!¬ø
+Àù0Ô£ø9	d	f	k	p	u	v	√†	√•	√≠	√≥	√∫	√π	‚Ä¶	‚Äî
+(
+K
+L
+[
+n
+√Ñ
+√Ö
+√â
+√≥
+√µ
+√º
+‚Ä†
+¬¢
+‚àè
+¬∫
+¬ø
+¬°
+‚àö
+√Ç
+√à
+√å
+√ì
+Ô£ø
+
+
+
+
+Àú√ìÀú√ìÔ¨ÅÀúÀú√ìÀú√ìÔ¨Å√∑√∑≈í√∑¬´¬ø‚àè‚àè√Ø¬´¬ø‚àè‚àèr¬´¬ø‚àè‚àèr¬´k‚àè‚àèr¬´¬ø‚àè‚àèr¬´¬ø‚Äì
+Ô£ø"√ÆP√≤4Àá‚àû	√†¬Øh@@"√ÆP√≤4Àá‚àû	√†¬Øh@@@@@@‚Äì
+Àù0Ô£ø!¬ø
+0Ô£ø‚àû!p,
+
+%
+&
+'
+2
+7
+<
+=
+RGRY_ems}√â√ß√Ø√∂¬∞√ü√Ü√òœÄ√¶∆í‚Ä¶≈í‚Äù‚óä‚Ç¨‚Äπ√ä√é√íÀúÀù¬Ø¬Ø‚Äô≈í¬´¬Ø¬Ø¬ß√∫√Æ√•√∫√ñ√ñ√ñ√ñ√ñ√ñ√ñ√ñ√ñ√ñ√ñ√ñ√ñ√ñriiiiiiiiriiiii√≤
+Àù0Ô£ø!¬ø
+Àù0Ô£ø!¬ø
+Àù0Ô£ø"√ÆP√≤4Àá‚àû	√†¬Øh@@@@@@‚Äì
+ !&*.37;?@EIMRÀúÀúÀú‚Ä∞‚Äπ‚Äò‚Äπ‚Äπ√É‚Äπ‚àö‚à´‚à´‚àö‚à´‚à´‚àö¬Æ‚àö‚à´‚à´‚à´‚à´‚àö‚à´‚à´‚à´‚à´‚àö¬Æ‚àö‚à´‚à´‚àö‚à´‚à´‚àö¬Æ‚àö‚à´‚à´‚àö‚à´‚à´‚àö¬Æ‚àö‚à´‚à´‚àö‚à´‚à´‚àö¬Æ‚àö‚à´‚à´‚àö‚à´‚à´‚àö¬Æ‚àö‚à´‚à´‚àö√ÆP√≤Àá‚àû√á	T&¬Ø¬†
+Àù0Ô£ø!¬ø
+Àù0Ô£ø!¬ø
+ %+128>DJKZ[\]^_`abgjlpv|√â√§√£√™√¨√±√∂‚Ä†¬∂‚â†¬•ÀúÀú√ì‚Äπ‚Äò√É‚Äò∆í‚Äò¬™¬™¬™¬™¬™¬™¬™¬™¬Æ¬™¬™¬™¬™√º¬™√º¬™¬Æ¬™¬™¬™¬™¬™¬™¬™¬™¬Æ¬™¬™¬™¬™¬™¬™¬™¬™¬Æ¬™¬™¬™¬™¬™¬™¬™¬™¬Æ¬™¬™¬™¬™¬™¬™¬™¬™√≤
+Àù0Ô£ø!¬ø
+Àù0Ô£ø!¬ø
+Àù0Ô£ø√ÆP√≤Àá‚àû√á	T&¬Ø¬†
+%,-?@ABCDEFGLOQTZ`flmruwz√Ñ√ú√•√≠√¨√≤√µ√π√º‚Ä¢¬¥¬±‚àë‚àèŒ©¬ø¬¨‚âà√Ä‚Äî‚óä‚Ä∫Ô¨Å‚Äû√ä√ã√é√íÀúÀù√å‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞√å‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞√å‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞√å‚Ç¨‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞√å‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞√å‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞√å‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞√å‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞√å‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞‚Ä∞√å‚Ç¨‚Ä∞‚Ä∞‚Ä∞√≤
+!&+-/05:>BÀúÀúÀúÀú‚Ä∞ÀúÀúÀúÀúÀúÀúÀúÀú‚Ä∞ÀúÀúÀúÀúÀúÀúÀúÀú‚Ä∞ÀúÀúÀúÀúÀúÀúÀúÀú‚Ä∞ÀúÀúÀúÀúÀúÀúÀúÀú‚Ä∞ÀúÀúÀúÀúÀúÀúÀúÀú‚Ä∞ÀúÀúÀúÀúÀúÀúÀúÀú‚Ä∞ÀúÀúÀúÀúÀúÀúÀúÀú‚Ä∞ÀúÀúÀúÀúÀúÀúÀúÀú‚Ä∞ÀúÀúÀúÀúÀúÀúÀúÀú‚Ä∞ÀúÀúÀúÀú√ÆP√≤Àá‚àû√ã
+<
+W
+N l"1ÀúÀúÀúÀú‚Ä∞ÀúÀúÀúÀúÀúÀúÀúÀú‚Ä∞ÀúÀúÀúÀúÀúÀúÀúÀú‚Ä∞ÀúÀúÀúÀúÀúÀúÀúÀú‚Ä∞ÀúÀúÀúÀúÀúÀúÀúÀú‚Ä∞‚Äπ‚Äò‚Äπ√Ä√Ä√¶√Ä√Ä√¶√Ä√Ä√¶√Ä√Ä√¶√Ä√Ä√¶√Ä√Ä√¶‚Äπ‚Äπ‚Äπ‚àÇ‚àÇ√Ü!¬ø
+Àù0Ô£ø!¬ø
+Àù0Ô£ø
+Àù0Ô£ø!¬ø
+Àù0Ô£øD"1$N$|%√¶%Ô£ø%√í%¬Ø%Àõ&&
+&
+&
+&&
+&
+&& &,&1&6&;&A&B&P&U&Z&_&e&f&k&p&u&z&√Ñ&√Ö&√∫&‚à´&√∏&¬†&Ô¨Å&√Å&Àá'''
+'
+'''+'/'7'<'='E'I'N'X']'^'e'j'o'w'|'}'√ú'√£'√™'√≤'√π'√ª'¬®'‚àû'¬•'√¶'∆í'‚âà¬ØÔ£ø√ãÔ£øÔ¨ÇÔ¨Ç√∑Ô¨Ç√∑‚àÜÔ¨ÇÔ¨Ç√∑Ô¨Ç√∑‚àÜÔ¨ÇÔ¨Ç√∑Ô¨Ç√∑‚àÜÔ¨ÇÔ¨Ç√∑Ô¨Ç√∑‚àÜÔ¨ÇÔ¨Ç√∑Ô¨Ç√∑‚àÜÔ£øÔ£øÔ¨ÇÔ¨Ç√∑Ô¨Ç√∑‚àÜÔ¨ÇÔ¨Ç√∑Ô¨Ç√∑‚àÜÔ¨ÇÔ¨Ç√∑Ô¨Ç√∑‚àÜÔ¨ÇÔ¨Ç√∑Ô¨Ç√∑‚àÜÔ¨ÇÔ¨Ç√∑Ô¨Ç√∑‚àÜÔ¨ÇÔ¨Ç√∑Ô¨Ç√∑‚àÜÔ¨ÇÔ¨Ç√∑Ô¨Ç√∑‚àÜ√ÆP√≤Àá‚àûp
+0Ô£ø‚àû!p,
+Àù0Ô£ø!¬ø
+Àù0Ô£ø!¬ø
+Àù0Ô£øN'‚âà'√Ä'‚Äì'√∑'‚Ä°'¬∑'‚Äö'‚Äû'‚Ä∞'√Ç'√ä'√Å'√ã(E**c*d*y*√á*√ß*√≥*√≤*‚Ä†*¬¥*‚àÇ*‚àë*¬†*‚Äú*‚ÅÑ*‚Ç¨*√Ç*√è*√õ*√ô*Àá++
+++ +&+,+-+8+>+D+E+]+d+k+l+√ë+√£+√¨+√Æ+√∏+≈∏,,,,C,D,U,Y,Z,rÀúÀú√ìÀú√ìÔ¨ÅÀúÀú√ìÀú√ìÔ¨Å√∑≈í√∑√∑√∑‚âà‚âà‚âà‚àë‚âà‚âà‚âà‚àë‚âà‚âà‚âà‚àë‚âà‚âà‚âà‚àë‚âà‚âà‚âà‚àë‚âà‚âà‚âà‚àë‚âà‚âà‚âà‚àë‚âà‚âà‚âà‚àë‚âà‚âà‚âà‚àë√∑√∑√∑√Ü√Ü¬∞√Ü√Ü¬∞√Ü
+Àá‚àû
+Ô£ø0!p
+‚Ä†
+Àù0Ô£ø!¬ø
+0Ô£ø‚àû!p,
+Àù0Ô£ø?,r,t,u,√§,√©,√®,√Ø,√∂,√µ,¬•,‚àè,œÄ,‚Ä¶,√ï,≈í,¬∑,‚Ä∞,√Ç,√ö,Àú,¬Ø---	--
+--6-;-<-O-U-V-m-s-t-√Ö-√ú-√°-√≠-√≥-√≤-‚â§.//j/k/√§/‚â•/‚Ä¶/‚Äì/‚Äî/√õ/Àò/Àô0000/090:0R0S0T0d0j0k0√Ñ0√ú0√°0‚Ñ¢0‚àû0¬±0‚âà0√Ä0√É0√∑0‚Äπ0‚Ä∫0√å0√ì0√î1
+11Àú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√ç‚Äö‚ÅÑ‚Äú‚Äö‚Äö‚ÄöÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√ç!¬ø
+Àù0Ô£ø!¬ø
+Àù0Ô£ø!¬ø
+Àù0Ô£ø
+Àù0Ô£øS1121>1?1]1h1i1w1}1~1√ú1√°1√†1¬∂1‚àû1¬±1√¶1∆í1‚âà1‚Äò1‚ÅÑ1‚Ç¨1√è1√ö1√õ242U2V3¬¥3¬®4√Ç4√ä6617)718(8*8/8:8?8J8O8X8c8h8s8x8√Ö8√á8√°8√£8√¨8√¥8√π8‚Ä¢8¬¥8¬®8¬±8¬∫8¬¨8√ï8√ø8Ô¨Ç8√ç8Ô£ø8Àö99
+ÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√çÀúÀú√ç‚Äö‚Äö‚Ä∫√ø‚Ä∫√ø‚Ä∫√ø‚Äö‚Äì‚Äö‚Äì‚Äö¬´√¶√¶√¶¬´¬´√¶√¶√¶¬´¬´¬®¬´√¶√¶¬´√¶√¶¬´¬®¬´√¶√¶√¶¬´¬´√¶√¶√¶¬´¬´√ÆP√≤Àá‚àû√á	T&¬Ø¬†
+Àù0Ô£ø!¬ø
+Àù0Ô£ø
+Àù0Ô£øD9
+99999%9)9197989‚Ç¨9‚Äû9√ã9√è9Ô£ø9√ô9¬Ø:::
+:!:*:3:@:D:E:M:R:W:\:a:f:k:p:q:x:}:~::√Ñ:√ñ:√£:√•:√ß:√Ø:√∂:√µ:√∫:√π:¬¢:√ü:¬Æ:¬©:¬µ:‚à´:√∏:∆í:‚Ä¶:≈í:‚Äù:‚Äò:‚Äô:‚Ä∫:‚Äû:√ã:√å:√ö:Àú:¬∏:Àù√ì√Ç‚Äπ‚Äπ√Ç‚Äπ‚Äπ√Ç√ì‚Äò√Ä√Ä√Ä√Ä√Ä√Ä¬¨√Ä√Ä√Ä√Ä√Ä√Ä√Ä√ò√Ä√Ä√Ä√Ä√Ä√Ä√Ä√Ä√ò√Ä√Ä√Ä√Ä√Ä√Ä√Ä√Ä√ò√Ä√Ä√Ä√Ä√Ä√Ä√Ä√Ä√ò√Ä√Ä√Ä√Ä√Ä√Ä√Ä√Ä√ò√Ä√Ä√Ä√Ä√Ä√Ä√Ä√Ä√ÆP√≤Àá‚àû√ã
+√∫!nE:Àù:Àõ:Àá;;;;
+;!;";';(;);*;.;3;8;=;B;C;D;E;F;_;c;d;n;o;v;‚Ä†;¬∞;√Ä;√É;√ï;‚Äú;√ø;Ô¨Å;Ô¨Ç;√Ç;√é;√í;Àú;¬Ø<<<	<
+<
+<
+<
+<"<(</<6<7<I<J<K<L<M<N<O<P<Q<V<Y<[<^<d<j<p<v<wÀú‚Ä∞ÀúÀúÀúÀúÀúÀúÀúÀúÀú‚Ä∞ÀúÀúÀúÀúÀúÀúÀúÀú‚Ä∞‚Äπ‚ÄπÀúÀúÀúÀú‚ÄùÀú‚ÄùÀú‚Ä∞ÀúÀúÀúÀúÀúÀúÀúÀú‚Ä∞ÀúÀúÀúÀúÀúÀúÀúÀú‚Ä∞ÀúÀúÀúÀúÀúÀúÀúÀú‚Ä∞¬†ÀúÀúÀúÀúÀúÀúÀú‚Ä∞ÀúÀúÀúÀúÀúÀúÀúÀú‚Ä∞√≤
+Àù0Ô£øM<w>√ö@M@N@O@P@|A¬¢CDyDzD¬¢D‚àûD¬∫D¬øD‚àÜD‚ÄôD√äD√ôEEE%E*E+E,E4E9E=EAEEEIEMENEOESEWEXEYElEpEqEuEvEwExEyEzE{E|E}E~E√£E√™E√ÆE√≤E√πE√ªE¬£E√üE¬¥E√òE¬•E¬µE‚àÇE¬°E‚âàE‚Ä¶E√ïE≈íE≈ìE‚ÄìE‚ÄîE‚ÄúE‚ÄùE‚ÄòE‚Äô¬ØÔ£ø√ã√ã√ã√ãÔ£øÔ£øÔ£ø√ã√ãÔ¨Ç√∑√∑√∑Ô¨ÇÔ¨ÇÔ¨ÇÔ¨ÇÔ¨Ç√∑√∑√∑√∏√∑√∑√∑√∑√∑√∑√∑√∑√∑√∑√∑√∑√∏Ô¨Ç√∑√∑√∑√∑√∑√∑√∑√∑√∑√∑√∑√∏√∑√∑√∑√∑√∑√∑√∑√∑√∑√∑√∑√∑√∏√∑√∑√∑√∑√∑√∑√∑√∑√∑√∑√∑√∑√ÆP√≤
+
+Àá‚àû√ÑP
+Ô£ø
+‚Ä†!p0
+Àù0Ô£ø!¬ø
+Àù0Ô£ø!¬ø
+Àù0Ô£øKE‚ÄôE√∑E‚Ä°E‚Ä∞E√ÇE√äE√ÅE√ãE√àE√çE√éE√îEÔ£øE√íE√öEÀõFFFFF	FFFFFFFFF
+F#F(F-F2F7F<FAFFFGFHFIFVFZF[F\F]F^F_F`FaFbFfFgFhFtFyFzF{F√ÑF√ÖF√áF√âF√ëF√ñF√§F√£F√•F√≠F√≤F√πF¬¢F¬ÆF‚â†F‚â§F‚àëF¬∫F¬øF‚âàF‚àÜF¬´F¬ªF‚Ä¶F¬†F√ÄF√ÉF√ïF≈íF≈ìF‚Äì√à‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°√à‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°√à‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°√à‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°√à‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°√à‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°√à‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°‚Ä°0
+
+Àá‚àû√ÑP
+Ô£ø
+‚Ä†!pXF‚ÄìF‚ÄîF‚ÄúF‚ÄùF‚ÄòF‚ÄôG8GWGkIHIIJJ√ÑJ√ÖK¬•K¬µL√ØL√±L√≥L¬¢L√äM.MBMLMwM‚âàN\N‚Ç¨OVtÔ¨Åt√íu¬¥v}v√ªwœÄw‚ÅÑyUy¬∞{%{j{√Æ{√Ü{¬µ{‚àë{‚à´{¬∫{∆í{‚àÜ{¬ª{‚Ä¶|P|Q|[|¬•}}}√á‚óä√â‚Ç¨ÀúÀúÀú‚Ä°√ø√ø√ø√ø‚Äù≈í‚Ä¶≈í≈í‚Ä¶≈í∆í≈í≈í≈í√ø≈í≈í≈í≈í≈í√∏√∏√∏‚àë‚àë‚àë‚àë‚àë‚àë‚àë‚àë‚àë‚àë‚àû‚àë‚àû‚àû‚àû‚àû‚àû‚àû‚àû‚àû‚àë¬Æ¬£¬£√∫‚àë√Ø‚àë‚àë‚àë√≤
+
+Àá‚àû√ÑP
+Ô£ø
+‚Ä†!p0
+Ô¨Åvaluing years lost to the accident as well direct costs.  Several steps must be undertaken: converting injuries to years of life, developing a value of life, and estimating other costs.
+3.1 Valuing Injury
+ The following tables show the percent of hours lost by degree of injury, and the functional years lost by degree of injury.TABLE: Degree of InjuryTABLE: Degree of Injury1. 2. 3. 4. 5.
+:lly injured averages 47.2 years2	Central to the estimation of costs is an estimate of the value of life.  Numerous studies have approached this question from various angles.  The results are summarized below.
+TABLE: TS3.3 Comprehensive Costs
+	After converting injuries to functional years lost, combining with fatality rates, and value of life, a substantial portion of accident costs have been captured.  But this data must be supplemented by other costs, including hospitalization, rehabilitation, emergency services, etc.
+TABLE: CPA by Component Category
+	Taking the above comprehensive costs, they can be allocated to the various accident categories by severity.TABLE: Comprehensive C by Severity of AccidentAccident Cost Cost note: : Miller 1991(p39)estimates of highway  on a hypothetical facilitycomprehensive cost  We apply this approach to the highway and air sectors.TABLE: Cost of Highway Accidents, Rural and Urban Freeways.
+TABLE: Cost of Accidents by Surface Transportation Mode, International Data
+	A similar calculation could be performed for air travel.  However, because the accidents are fewer, and vary a great deal in magnitude, rates are not stable on a yearly level.  Similarly, it is difficult to establish with confidence any costs beyond loss of life using the value of life idea discussed above.  Some estimates for accident rates and the range of costs are provided below.
+TABLE: Accident and Death Rates for Large and Commuter AirlinesLarge
+Airlines		unlike a single car accident.
+TABLE: Costs by Incidence
+Total.
+.
+..
+.
+.Disab.
+.
+&
+
+note: 	front through system design.   e the trade-off was beneficial.be dead than stuck in traffic?‚ÄùNational Safety Council (1993)  ()
+
+END NOTES
+1. . For instance,.(1991) 53,579 for urban interstates (1988 dollars)InterstatesEnglish
+UnitsRural MTUrban MT53,57946MetricKKTKKT53,57928by mode (Canadian cents per
+
+
+note: in 1994 Canadian centsaccident basis/PMT/PKT/PMT/PKT/PKT/PMT ($0.0083/PKT /PMT/PKT (kilometer), United States GovernmentThe Costs of Highway Crashes, USDOT, FHWA-RD-91-055 (HE 5614.2.C66 1991) Jones-Lee (1988) provides one summaryed by NHTSA (198w‚àöw≈∏x&x.xFx\xlxtx}x√áx√°x√ßx√∂x√ºx¬•x≈ìx¬∑x‚ÄûyySyTyUypy√°y‚Ä†y¬∞{${%{d{i{r{s{t{√¨{‚â†{√Ü{‚â•{¬•{¬µ{‚àÇ{‚àë{‚àè{‚à´{¬™{¬∫{Œ©{‚àö{∆í{‚âà{‚àÜ{¬´{¬ª{≈ì{‚Äì{√î||-|L|M|N|O|P|Q|Z|[|^|m|n|u|√´|‚Ä†|¬¥|‚â•|œÄ|√∏|¬°|¬´|‚Ä¶|√Ä|√É|≈ì|‚Äî|‚óä|√ø|‚ÅÑ|‚Ç¨|‚Ä∫|‚Äû|√Ç}}}}
+} })}.}2}3}6}:ÀöÀôÀôÀöÀöÀöÀöÀöÀö√Ñc}:};}>}B}F}H}S}T}X}\}h}√á}¬†}Ô£ø√á√áP√á¬±√á‚â•√á¬¨√á√É√á√∑√â√â
+√â$√â&√âX√â_√â‚ÅÑ√â‚Ç¨√â‚Ä∫√â√ã√â√é√âÀö√â¬∏√âÀù√âÀá√ë√ë√ë√ë√ë
+√ë√ë"√ë-√ë.√ë9√ëÔ¨Å√ñS√ñb√ñ√Æ√ñ√Ø√ñ√±√ñ¬µ√ú√å√°√°#√°7√°~√°√â√°√ú√°√≤√°√¥√°‚Ñ¢√°¬´√°¬†√°≈ì√°√∑√°‚óä√°√î√†√†√†√†2√†=√†c√†k√†m√†√Ö√†¬ø√†‚óä√†√ø√†‚Ä°√†‚Äö√†‚Äû√†√à√†√ç√†√é√†Ô£ø√†√í√†√ö√†√õ√†√ô√†Àò√†Àô√†Àö√†¬∏√¢
+ÀöÀöÀöÀöÀöÀöƒ±√ô√ôÀöÀöÀöÀöÀö√Ñ
+@`, with an enphasis on British values from revealed and stated preference studies.  He finds the range of value of life to vary by up to two orders of magnitude (a factor of 100). Miller‚Äôs (1991)summary isreproduced
+	Australian data (ABTC 1992) shows an average cost per accident of $AU 10,378.  This result is significantly lower than American figures, principally due to a lower value of life in the Australian method, which is not as comprehensive as in the United States.
+
+	 (IBI 1995)   Australian data (ABTC 1992) shows an estimate of $1,259,000 (AU88) total cost per fatal accident, multiplied by the U.S. accident rate of 0.0008 fatal accidents per million aircraft miles gives a cost of $AU 0.001/PMT, which is also consistent from an order of magnitude perspective, though given experience from their highway estimates, suggests that this is better seen as a lower bound rather than an upper bound for costs. e external to transportation.   For the purposes of this analysis, insurance costs should not be counted simply in addition to accident costs to estimate ‚Äúfull costs‚Äù because insurance costs are a transfer of accident costs (and some overhead to cover risk and profit) from the traveler to a third party.  However, it is interestingto analyze who bears which costs of accidents.   incidence matrix using national data, associating cost category with the organization which bears the cost.TOTAL7. nter-relationships., Michael (1987) ‚ÄúEvaluating Safety Benefits‚Äù in Transport UK: an economic, social and policy audit 1987  Transport UK Policy Journals(HE243.A1 T73 1987)Australian Bureau of Transport and Communications (1992) ,  Economics Report 79, Australian Government Publishing Service, Canberra, Australia (HE5614.5 A8 S63 1992)	source: on	, 1993
+
+Fatal
+/
+
+Fatal
+/$urban interstates ($53,579/crash)How much does it cost to prevent accidents? 		-source Miller  (p.105)8. References()9. End NotesNon incapacitatingFreewayFreewayInjured +Injured +ClassificationemphasisIncapacitatingwhichCanadianinteresting to$√ü$¬Æ$¬µ$¬™$√â‚Ç¨√â‚Äπ√†√ç√†√é√†√í√†√õ√†√ô√†Àô¬Ø√í√í√í√à√í√í
+√¢
+√¢√¢
+√¢
+√¢I√¢J√¢K√¢L√¢Z√¢b√¢o√¢p√¢q√¢}√¢√®√¢√±√¢√π√¢¬∂√¢√ò√¢Œ©√¢‚âà√¢‚Äù√¢√ø√¢‚Ä°√¢√ìÀõÀõ√ÑP√Ü@OV≈í‚Äú¬†√†<‚Äù$p(5.√≠5‚Ç¨=√∑E√öP√ÜÀáÀáÀáÀáXPÀáÀá5@ÀáÀá)PÀáÀá8@ÀáÀá!PÀáÀá)ÀáÀáPÀáÀá	9@ÀáÀá
++PÀáÀá
++@ÀáÀá
+Ô¨ÅPÀáÀá
+<\√¢√§√ª√º‚â†¬∫Ô¨Å√ü‚Ä∫Ô£øÀÜ
+*
+M
+N
+]
+p
+√â
+√ñ
+√¥
+√π
+¬¢
+¬ß
+‚à´
+√¶
+‚àö
+‚âà
+√ã
+√è
+√í
+√õ
+
+
+
+
+#
+)
+*
+5
+:
+@
+U
+
+~
+√´
+O
+√®
+√™
+√≥
+√π
+¬£
+‚Ñ¢
+¬¥
+¬•
+¬∫
+Œ©
+√∏
+√Ä
+‚Äì
+‚Äô
+‚ÅÑ
+¬∑
+√î
+√ô
+Àò
+ ;lq|√™√¥‚â§¬™¬ø‚âà√ï‚ÄùÔ¨Ç‚Äû√Å√îƒ±   	   # ( - 5 ; G L Q Y _ m q u  √ú √• √´ √≥ ¬∞ ¬£ Œ©!!"¬•"‚Ä∞"Àô##$#+#6#8#`#k#√â#√ñ#√Ø#√∫#¬±#‚àè#‚Ç¨#‚Äö#ÀÜ#Àù$$$
+$ $;$B$c$p$√©$√∂$¬Æ$√ò$‚àë$œÄ$‚óä$‚Äö$√î$ÀÜ%%
+%
+%$%e%}&√≤&‚Äò&√è''''3'6'K'P'V'\'u'z'√§'√®'¬¢'¬∂'‚â•'œÄ'‚âà'¬†'‚ÅÑ'‚Ä°'Àú'Àù(((.(5(B(H(S(Y(s(‚Ä°))&)6)F)N)Y)e)v)~)√°)√´)√≤)‚Ä†)¬¥)‚â§)‚à´)√É)‚Äú)≈∏)‚Ä∞)√ç)√í*	***0*7*@*q*√£+,<,],^-Ô¨Ç-‚Ä°//0G0e1Œ©1‚âà2‚óä333%30353@3K3P3[3`3k3v3|3√Ö3√ñ3√ß3√¨3√≥3√º3¬∂3‚â†3‚àè3Œ©3¬ª3‚Äù3√ø3‚Äû3√ã3√õ3Àõ44	4
+4444'4.4√ï555"5'5+5/53575C5G5N5R5[5d5l5r5w55√ë5√¢5√©5√¨5√≤5√π5¬£5‚Ñ¢5√ò5‚àû5¬±5‚â§5‚àë5Œ©5√∏5¬´5√É5√ï5≈í5≈ì5‚Äò5≈∏5‚Ç¨5√Å5√è5√í5ÀÜ5Àö66666666$6)6.6/61686C6H6N6S6T6Y6Z6\6`6e6j6o6t6u6v6x6√´6√Ü7‚â§7‚àÇ9C9√â9√ë9√©9√®9√±9¬ø9¬°9√é9√å9√ì9√ô9Àô9Àö:::
+:::#:&:(:+:1:7:>:F:X:[:]:`:f:l:r:y<{>¬∂@@DCZCtCzC√âC√†C√©C√ÆC√¥C‚Ä†C¬∂C¬®C¬±C‚àëC¬∫C∆íC‚Ä¶C≈ìC‚ÄôC‚ÅÑC¬∑C√àC√åC√íCƒ±CÀòCÀùCÀõCÀáDDD
+DD!D"D&D'D(D)D*D+D,D-D2D?DCDGDLDMDRDVDZD^DcDiDtDxD|D}D~DD√ÑD√ÖD√áD√âD√†D√≠D√¨D√ÆD√ØD√±D√≥D√≤D√¥D√πD√ªD¬£D√òD‚àûD¬±D¬µD‚àÇD¬™D¬∫DŒ©D√¶D√∏D∆íD¬†D≈ìD‚ÄòD≈∏DÔ¨ÅD‚ÄûD√ãD√åD√öD√õD¬ØEEEEE	E
+E
+E
+E
+EEE"E#E$E)E*E+E,E-E.E3E9E?EDEIEOETEYE^EcEgElEsE√©E‚Ç¨E√öG‚ÄìIJ√ÉJ√ïJ≈íJ‚ÄπK2K√©L2MMRM√àNjN√ÇN√äN√õP‚â†P√Ü!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+¬ª
+¬ª
+¬ª
+¬ª
+@‚Äì
+¬ª
+¬ª
+¬ª
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+@!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+@!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+‚Ä†
+!¬ø
+!¬ø
+!¬ø
+@!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+@!¬ø
+!¬ø
+!¬ø
+@	!¬ø
+@!¬ø
+@!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+!¬ø
+@!¬ø
+@!¬ø
+@!¬ø
+!¬ø
+@!¬ø
+!¬ø
+@!¬ø
+@!¬ø
+@!¬ø
+!¬ø
+@!¬ø
+!¬ø
+!¬ø
+w‚àö}:√¢
+√¢√ì(?@F	d
+ÀùR¬•B"1'‚âà,r19
+:Àù<wE‚ÄôF‚Äì√â‚Ç¨√†Àô)*+,-./0123456789E
+"√ë√ò¬¨√ä(√≠(ÀÜ)+|+}HHÀô@Àá√íÀá√ì	Rt(¬∏ÀùHH
+g	`¬∏'Àá√íÀá√ì	R=‚Ä°/‚Äì‚Ä†‚Ä†‚ÄìBBH-:Personal LW LS
+ChicagoGenevaMonaco
+
+Zapf DingbatsBookmanN Helvetica Narrow
+Zapf ChanceryTimes	HelveticaCourierSymbol"New Century Schlbk√ë
+Mos Eisley√ò
+Chicago-Math¬¨
+Cupertino √äBroadwayQuickType MonoOCR-A(√≠
+
+
+
+
+8‚Ä† √Ñ‚Ä† `‚Ä† ‚Ä†
+
+
+8‚Ä† √Ñ‚Ä† `‚Ä† ‚Ä†
+
+
+8‚Ä† √Ñ‚Ä† `‚Ä† ‚Ä†
+
+
+8‚Ä† √Ñ‚Ä† `‚Ä† ‚Ä†
+
+
+8‚Ä† √Ñ‚Ä† `‚Ä† ‚Ä†
+
+8‚Ä†8‚Ä†‚Ä†#‚Ä† √Ñ‚Ä† `‚Ä† ‚Ä†
+
+8‚Ä†8‚Ä†‚Ä†@‚Ä†‚Ä†√º‚Ä†
+
+8‚Ä† √Ñ‚Ä† `‚Ä† ‚Ä†
+
+8‚Ä†8¬£
+@¬£@¬£
+
+@‚Ä†‚Ä†0‚Ä†‚Ä†√º‚Ä†
+
+8‚Ä† √Ñ‚Ä† `‚Ä† ‚Ä†
+
+
+8‚Ä† √Ñ‚Ä† `‚Ä† ‚Ä†
+
+8‚Ä†8‚Ä†‚Ä†:‚Ä†‚Ä†√º‚Ä†
+
+8‚Ä† √Ñ‚Ä† `‚Ä† ‚Ä†
+
+8‚Ä†8¬£@¬£
+
+@‚Ä†‚Ä†@‚Ä†‚Ä†√º‚Ä†
+
+8‚Ä† √Ñ‚Ä† `‚Ä† ‚Ä†
+
+8‚Ä†8¬£
+@¬£@¬£
+
+‚âà
+~
+√™
+√´
+‚Äú
+N
+O
+V
+~
+√©
+√®
+√™
+√±
+√≥
+√∫
+√π
+¬¢
+¬£
+¬Æ
+¬©
+‚Ñ¢
+¬¥
+‚â•
+¬•
+¬™
+¬∫
+Œ©
+√¶
+√∏
+¬†
+√Ä
+≈ì
+‚Äì
+‚Äò
+‚Äô
+≈∏
+‚ÅÑ
+Ô¨Ç
+‚Ä°
+¬∑
+√ì
+√î
+√õ
+√ô
+¬Ø
+Àò
+Àù
+ ;BX[kpq{|√®√™√≤√¥‚àû¬±‚â§¬µ‚à´¬™√∏¬ø∆í‚âà√É√ï‚Äî‚Äú‚Äù√∑Ô¨ÅÔ¨Ç‚Äö‚Äû√ä√Å√ì√î√õ√ôƒ±¬ØÀá     	     
+ " # ' ( , - 4 5 9 : ; > F G K L P Q X Y ] ^ _ l m p q t u ~  √ë √ñ √ú √£ √• √™ √´ √± √≥ ‚Ä† ¬∞ ¬¢ ¬£ ¬∫ Œ© ¬° ¬¨ ‚Ä° Àá!!!!!!‚â†!‚Äù!‚Ä∫!√Ç"#"√ë"√ú"√°"√±"√≥"¬∞"¬¢"¬®"‚â•"¬•"¬™"√∑"‚óä"Ô¨Å"Ô¨Ç"Àò"Àô######$#)#*#+#5#6#7#8#_#`#i#j#k#√á#√â#√ë#√ñ#√Æ#√Ø#√∂#√µ#√∫#‚àû#¬±#‚àÇ#‚àë#‚àè#‚ÅÑ#‚Ç¨#‚Ä°#¬∑#‚Äö#ƒ±#ÀÜ#Àö#¬∏#Àù$$$
+$
+$$
+$
+$$ $:$;$@$A$B$b$c$n$o$p$√ß$√©$√≤$√¥$√∂$√ü$¬Æ$‚â†$√Ü$√ò$‚àÇ$‚àë$‚àè$œÄ$√∑$‚óä$‚Ä°$¬∑$‚Äö$√ì$√î$√ô$ƒ±$ÀÜ%%%
+%
+%
+%
+%
+%"%#%$%e%g%h%i%v%|%}&√≥&√≤&√ª&‚Ä†&¬©&‚Ñ¢&‚â•&¬•&¬∫&‚Äú&√é&√è''''''''''2'3'4'5'6'J'K'N'O'P'U'V'Z'['\'t'u'x'y'z'√¢'√§'√ß'√©'√®'¬∞'¬¢'¬ß'‚Ä¢'¬∂'‚â§'‚â•'‚àë'‚àè'œÄ'∆í'‚âà'¬ª'‚Ä¶'¬†'≈∏'‚ÅÑ'Ô¨Å'Ô¨Ç'‚Ä°'ÀÜ'Àú'Àö'¬∏'Àù((((((-(.(3(4(5(A(B(F(G(H(R(S(W(X(Y(r(√∏(¬´(Ô¨Ç(‚Ä°(ÀÜ(Àô)
+)%)&)+)5)6);)D)E)F)M)N)X)Y)c)d)e)g)u)v)})~)√ñ)√ú)√°)√™)√´)√≥)√≤)√ª)√º)‚Ä†)‚Ñ¢)¬¥)¬±)‚â§)‚àè)œÄ)‚à´)√Ä)√É)‚Äî)‚Äú)‚óä)√ø)≈∏)‚Äû)‚Ä∞)√à)√ç)√î)Ô£ø)√í**	******/*0*6*7*>*?*@*F*w*√ë*√ñ*√§*√£+¬Ø+Àù,,&,',0,6,7,<,_,√£0e0f0x0√ß0√¨0√±0≈ì0√ç1,1>1√ë1√ú1¬∫1‚âà1‚àÜ1√∑1‚Ä∫220212@2√ø3
+3$3%3@3F3M3O3k3q3x3z3{3|3√ß3√¨3√≤3√∂3√µ3√ª3√º3¬¢3¬ß3‚Ä¢3¬∂3¬®3¬™3¬∫3‚Äô3‚óä3√ä3√Å4444444 4&4'4*4,4-4.4¬ß4¬ø4√Ä4√É4√ï4≈í4√ã4Àá5555!5*5B5k5l5v5w5√†5¬¢5¬£5√ò5√¶5√∏5√É5‚ÅÑ5‚Ç¨5Ô£ø66666
+6061676C6M6[6\6i6w6x6√™6√≥6‚â†6√ö6ƒ±6Àö6Àù7/767¬±7‚â§7¬µ7‚àÇ8?8H8i8n9B9C9√á9√â9√ë9√è9√å9√ì::::":#:E:F:W:X:x:y:z;i;~;√ú;√§;√•;√Æ;√Ø;√±;√¥<\<b<f<h<o<p<q<t<z<|<‚Äù<‚óä<‚Ä∫<√Ç<√è<Àú<¬Ø<Àö=
+=
+=
+======.=/=2===>=I=√ì>c>r>¬ß>‚Ä¢>¬∂>√ü?e?k?o?q?|?}?¬±?¬µ?œÄ?¬∫?¬°?‚âà?√ô@@@@AJAiB√£B√¥B¬¢B¬´B√åBÀõCCYCsCtCyCzC√âC√úC√°C√¨C√ÆC√≥C√≤C√ºC‚Ä†C¬ßC‚Ä¢C‚Ñ¢C¬®C‚àûC‚àÇC‚àëC‚à´C¬™C¬∫C¬¨C‚àöC∆íC¬´C¬ªC≈íC≈ìC‚ÄìC‚ÅÑCÔ¨ÇC‚Ä°C¬∑C√ãC√àDD
+D
+DDD!D-D1D2D>D?DcDhDiDsDtD√âD√°D√†D√´D√≠D√ªD¬¢D¬£D√ÜD√òD√∏D‚àöD∆íD‚Ä¶D¬†D√õDÀúD¬ØEEEEEE!E"E3E8E9E>E?ElErEsE√ÖE√ñE√ßE√ÆE‚Ç¨EÔ¨ÅEÔ¨ÇE√íE√öE√õG‚àûG≈ìH√äII√éI√èJ√ÉJ≈íJ‚Ç¨J‚ÄπJÀöKK1K2KEKaK√ßK√≥K¬ÆK‚âàK¬ªK√ïK‚ÄòK‚ÄôK√åKÀáLL
+L0L1L2L=LcLkL√ØL√≥L¬¥L√çMM	M
+MMM~M‚ÄôNNNNNNXN{N¬∞N‚Ä∞N√ÇN√äN√öN√õNÀÜO√ªO‚â†P¬¥P¬®P‚â†P√Ü
+√Ñ√Ñ
+√Ñ	"√Ñ√Ñ	#√Ñ	'√Ñ	(√Ñ√Ñ	)√Ñ	8√Ñ√Ñ	9√Ñ	:√Ñ√Ñ	;√Ñ	?√Ñ√Ñ	@√Ñ	D√Ñ√Ñ	E√Ñ	I√Ñ	J√Ñ√Ñ	K√Ñ	c√Ñ√Ñ	d√Ñ	e√Ñ√Ñ	f√Ñ	j√Ñ√Ñ	k√Ñ	o√Ñ√Ñ	p√Ñ	t√Ñ	u√Ñ√Ñ	v√Ñ	√°√Ñ√Ñ	√†√Ñ	√£√Ñ√Ñ	√•√Ñ	√´√Ñ√Ñ	√≠√Ñ	√±√Ñ√Ñ	√≥√Ñ	√µ√Ñ	√∫√Ñ√Ñ√†√ø√Ñ√Ñ	‚Ä¢√Ñ√Ñ√†‚Ä°√Ñ	¬¥√Ñ√Ñ√†‚Äö√Ñ	‚Äî√Ñ√Ñ√¢}
+√Ñ;√Ñ√Ñ<√ÑA√ÑB√ÑC√Ñ	√ÑD√ÑI√ÑJ√ÑK√Ñ
+√ÑL√ÑP√ÑZ√Ñ√†√à√Ñ`√Ñ√Ñe√Ñ√Ñ√¢√π√Ñn√Ño√Ñ√†√ç√Ñw√Ñ√Ñ√†√é√Ñ√†Ô£ø√Ñ√Ñ√†√í√Ñ√â√Ñ√Ñ√§√Ñ√¨√Ñ
+√†√ö√Ñ√¥√Ñ
+√Ñ√ª√Ñ√Ñ√¢¬∂√Ñ√ü√Ñ¬Æ√Ñ√†√õ√Ñ‚àû√Ñ√Ñ√†√ô√Ñ√†Àò√Ñ√Ñ√†Àô√Ñ¬∫√Ñ‚àö√Ñ
+∆í√Ñ√É√Ñ√Ñ√ï√Ñ‚Äì√Ñ√Ñ‚Äî√Ñ‚Äô√Ñ√Ñ√∑√Ñ≈∏√Ñ
+√å√Ñ√ÑO[√Ñ√ÑO{√Ñ√ÑO∆í√Ñ√ÑO‚óä√Ñ√Ñt$√Ñ√Ñt,√Ñ√ÑtF√Ñ√ÑtN√Ñt[√Ñ√ÑtÔ¨Å√ÑtÔ£ø√Ñ√Ñ$|√Ñ√Ñt√í√Ñ√Ñu √Ñ√Ñu%√Ñ√Ñu9√Ñ%Œ©√Ñ√Ñum√Ñ√Ñ%√¶√Ñ√Ñut√Ñ%√î√Ñ%Ô£ø√Ñ√Ñ%√í√Ñ%Àú√Ñ√Ñ%¬Ø√Ñ%Àù√Ñ√Ñ%Àõ√Ñ&√Ñ&√Ñ&	√Ñ&
+√Ñ√Ñ&
+√Ñ&
+√Ñ&
+√Ñ&√Ñ√Ñ& √Ñ&+√Ñ√Ñ&,√Ñ&0√Ñ√Ñ&1√Ñ&5√Ñ√Ñ&6√Ñ&:√Ñ&;√Ñ&@√Ñ&A√Ñ√Ñ&B√Ñ&O√Ñ√Ñ&P√Ñ&T√Ñ√Ñ&U√Ñ&Y√Ñ√Ñ&Z√Ñ&^√Ñ√Ñ&_√Ñ&d√Ñ&e√Ñ√Ñ&f√Ñ&j√Ñ√Ñ&k√Ñ&o√Ñ√Ñ&p√Ñ&t√Ñ√Ñ&u√Ñ&y√Ñ√Ñ&z√Ñ&√Ñ&√Ñ√Ñ&√Ö√Ñ√Ñu√ë√Ñ√Ñ&√∫√Ñ√Ñ%‚Äû√Ñ√Ñu√£√Ñ&œÄ√Ñ&√¶√Ñ√Ñ&√∏√Ñ&‚Ä¶√Ñ√Ñ&¬†√Ñ&‚Ä∫√Ñ√Ñ&Ô¨Å√Ñ&√ä√Ñ√Ñ&√Å√Ñ&Àõ√Ñ&Àá√Ñ√Ñu√µ√Ñ√Ñ'√Ñ'√Ñ√Ñ'√Ñ'
+√Ñ√Ñu√ª√Ñ√Ñ'
+√Ñ'&√Ñ√Ñ''√Ñ'*√Ñ'+√Ñ'.√Ñ'/√Ñ'6√Ñ√Ñ'7√Ñ';√Ñ'<√Ñ√Ñu¬∞√Ñ√Ñ'=√Ñ'D√Ñ√Ñ'E√Ñ'H√Ñ√Ñ'I√Ñ'M√Ñ√Ñ'N√Ñ'W√Ñ√Ñ'X√Ñ'\√Ñ']√Ñ√Ñu¬ß√Ñ√Ñ'^√Ñ'd√Ñ√Ñ'e√Ñ'i√Ñ√Ñ'j√Ñ'n√Ñ√Ñ'o√Ñ'v√Ñ√Ñ'w√Ñ'{√Ñ'|√Ñ√Ñu√ü√Ñ√Ñ'}√Ñ'√ñ√Ñ√Ñ'√ú√Ñ'√§√Ñ√Ñ'√£√Ñ'√®√Ñ√Ñ'√™√Ñ'√≥√Ñ√Ñ'√≤√Ñ'√∫√Ñ'√π√Ñ√Ñ'√ª√Ñ'¬¥√Ñ√Ñ'¬®√Ñ'√ò√Ñ√Ñ'‚àû√Ñ'‚â•√Ñ√Ñ'¬•√Ñ'Œ©√Ñ√Ñ'√¶√Ñ'‚àö√Ñ'∆í√Ñ√Ñ'‚âà√Ñ'¬†√Ñ√Ñ'√Ä√Ñ'≈ì√Ñ√Ñ'‚Äì√Ñ'‚Äô√Ñ√Ñ'√∑√Ñ'Ô¨Ç√Ñ'‚Ä°√Ñ'¬∑√Ñ'√ã√Ñu‚Ñ¢√Ñ√Ñ(√Ñ√Ñu¬¥√Ñ√Ñ(√Ñ√Ñu¬®√Ñ(D√Ñ√Ñ/k√Ñ√Ñu√Ä√Ñ/n√Ñ√Ñu√É√Ñ√Ñv,√Ñ√Ñ}¬†√Ñ√Ñ√á√Ñ√Ñ√¢Œ©√Ñ√á√Ñ√Ñ√áP√Ñ√Ñ√á¬±√Ñ√ÑvZ√Ñ√Ñ√á‚â•√Ñ√Ñv^√Ñ√Ñ√á¬¨√Ñ√Ñvj√Ñ√Ñ√á√É√Ñ√Ñvu√Ñv|√Ñ√Ñv}√Ñ√Ñ/√§√Ñ√Ñv√ë√Ñ√Ñ/¬∂√Ñ√Ñv√ñ√Ñ/√Ü√Ñ/¬ª√Ñ/‚Ä¶√Ñ/≈ì√Ñ/‚Äì√Ñ√Ñ/‚Äî√Ñ/√ö√Ñ/√õ√Ñ/¬Ø√Ñ/Àò√Ñ√Ñ/Àô√Ñ0√Ñ0√Ñ0√Ñ√Ñ0√Ñ0.√Ñ0/√Ñ08√Ñ09√Ñ√Ñ0:√Ñ0Q√Ñ0R√Ñ0S√Ñ√Ñ0T√Ñ0c√Ñ0d√Ñ0i√Ñ0j√Ñ√Ñ0k√Ñ0√Ñ0√Ñ√Ñ0√ñ√Ñ0√ú√Ñ√Ñ0√°√Ñ0¬©√Ñ0‚Ñ¢√Ñ0√ò√Ñ0‚àû√Ñ√Ñ0¬±√Ñ0∆í√Ñ√Ñ0‚âà√Ñ0¬†√Ñ0√Ä√Ñ√Ñ0√É√Ñ0‚Äô√Ñ0√∑√Ñ0‚Ç¨√Ñ0‚Äπ√Ñ√Ñ0‚Ä∫√Ñ0√è√Ñ0√å√Ñ0√ì√Ñ√Ñ0√î√Ñ1	√Ñ1
+√Ñ1√Ñ1√Ñ√Ñ1√Ñ11√Ñ12√Ñ1=√Ñ1>√Ñ√Ñ1?√Ñ1\√Ñ1]√Ñ1g√Ñ1h√Ñ√Ñ1i√Ñ1v√Ñ1w√Ñ1|√Ñ1}√Ñ√Ñ1~√Ñ1√ñ√Ñ1√ú√Ñ1√°√Ñ√Ñ1√†√Ñ1‚Ä¢√Ñ1¬∂√Ñ1√ò√Ñ1‚àû√Ñ√Ñ1¬±√Ñ1Œ©√Ñ1√¶√Ñ1‚àö√Ñ1∆í√Ñ√Ñ1‚âà√Ñ1‚Äù√Ñ1‚Äò√Ñ1≈∏√Ñ1‚ÅÑ√Ñ√Ñ1‚Ç¨√Ñ1√é√Ñ√Ñ1√è√Ñ1√í√Ñ1√ö√Ñ
+1√õ√Ñ√Ñv√ú√Ñ√Ñv√†√Ñ√Ñv√¢√Ñ√Ñv√§√Ñ√Ñv√≥√Ñv√π√Ñ√Ñv√ª√Ñw‚àè√Ñ√ÑwœÄ√Ñ√Ñw√∏√Ñ√Ñ+ÀÜ√Ñ√Ñw¬°√Ñ√Ñ,√Ñ√Ñw¬¨√Ñ√Ñ,
+√Ñ√Ñw‚àö√Ñ,√Ñ,+√Ñ,,√Ñ,B√Ñ,C√Ñ√Ñ,D√Ñ,T√Ñ√Ñ√†Àö√Ñ,U√Ñ,X√Ñ,Y√Ñ√Ñ,Z√Ñ,q√Ñ√Ñ,r√Ñ,s√Ñ,t√Ñ√Ñ,u√Ñ,√¢√Ñ,√§√Ñ,√ß√Ñ,√©√Ñ√Ñ,√®√Ñ,√Æ√Ñ,√Ø√Ñ,√¥√Ñ,√∂√Ñ√Ñ,√µ√Ñ,‚â•√Ñ,¬•√Ñ,‚àë√Ñ,‚àè√Ñ√Ñ,œÄ√Ñ,¬ª√Ñ,‚Ä¶√Ñ,√É√Ñ,√ï√Ñ√Ñ,≈í√Ñ,‚Ä°√Ñ√Ñ,¬∑√Ñ,‚Äû√Ñ,‚Ä∞√Ñ√Ñ,√Ç√Ñ,√í√Ñ√Ñ,√ö√Ñ,ÀÜ√Ñ,Àú√Ñ√Ñ,¬Ø√Ñ-√Ñ-√Ñ-√Ñ-√Ñ√Ñ-	√Ñ-√Ñ√Ñ-√Ñ-
+√Ñ√Ñ-√Ñ
+-5√Ñ
+-6√Ñ
+-:√Ñ
+-;√Ñ√Ñ-<√Ñ-N√Ñ-O√Ñ-T√Ñ-U√Ñ√Ñ-V√Ñ-l√Ñ-m√Ñ-r√Ñ -s√Ñ√Ñ-t√Ñ
+-√Ñ√Ñ
+-√Ö√Ñ
+-√ñ√Ñ
+-√ú√Ñ√Ñ-√°√Ñ-√´√Ñ√Ñ-√≠√Ñ-√±√Ñ-√≥√Ñ
+-√≤√Ñw≈∏√Ñ√Ñx&√Ñ√Ñx.√Ñ-¬±√Ñ√ÑxF√Ñ√Ñ*s√Ñ√Ñx\√Ñ√Ñxl√Ñ*w√Ñ√Ñxt√Ñ√Ñ*y√Ñ*√Ö√Ñ√Ñx}√Ñ√Ñ*√á√Ñ*√•√Ñ√Ñx√á√Ñ√Ñ*√ß√Ñ*√±√Ñ*√≥√Ñ!√Ñ*√≤√Ñ*√º√Ñ*‚Ä†√Ñ*‚Ñ¢√Ñ√Ñ*¬¥√Ñ*¬µ√Ñ*‚àÇ√Ñ"√Ñ*‚àë√Ñ√Ñ√¢‚âà*‚Ä¶√Ñ*¬†√Ñ*‚Äî√Ñ√Ñ*‚Äú√Ñ*≈∏√Ñ*‚ÅÑ√Ñ"√Ñ*‚Ç¨√Ñ*‚Ä∞√Ñ*√Ç√Ñ*√é√Ñ√Ñ*√è√Ñ*√ö√Ñ*√õ√Ñ"√Ñ*√ô√Ñ*Àõ√Ñ*Àá√Ñ+√Ñ√Ñ+√Ñ+
+√Ñ"√Ñ+√Ñ+√Ñ+ √Ñ+%√Ñ√Ñ+&√Ñ++√Ñ+,√Ñ"√Ñ+-√Ñ+7√Ñ+8√Ñ+=√Ñ√Ñ+>√Ñ+C√Ñ+D√Ñ"√Ñ+E√Ñ+\√Ñ+]√Ñ+c√Ñ√Ñ+d√Ñ+j√Ñ+k√Ñ"+l√Ñ+√â√Ñ√Ñ+√ë√Ñ+√§√Ñ√Ñ+√£√Ñ+√≠√Ñ+√¨√Ñ#√Ñx√°√Ñ+√Æ√Ñ√Ñx√ß√Ñ√Ñ+‚Äù√Ñ√Ñx√∂√Ñ+√ø√Ñ-‚â§√Ñ√Ñ√¢‚Äù√Ñ/4√Ñ√Ñ√†¬∏√Ñ√¢
+√Ñ√¢
+√Ñ√¢√Ñ√¢
+/e√Ñ24√Ñ√Ñ√¢
+2W√Ñ√Ñ√¢I√Ñ61√Ñ√Ñx√º√Ñ√Ñ6C√Ñ√Ñ6W√Ñ√Ñ6Z√Ñ√Ñx¬•√Ñ√Ñ6√¨√Ñ√Ñx≈ì√Ñ√Ñ6‚Äö√Ñ√Ñx¬∑√Ñ√Ñx‚Äû√Ñ7(√Ñ√Ñ√¢J√Ñ71√Ñ√Ñ|n√Ñ√Ñ7A√Ñ√Ñ|u√Ñ√Ñ7√™√Ñ√Ñ|√´√Ñ7√´√Ñ√Ñy√Ñ√Ñ|‚Ä†√Ñ8)√Ñ√Ñ|¬¥√Ñ|‚â•√Ñ8.√Ñ8/√Ñ√Ñ|œÄ√Ñ8J√Ñ√Ñ|√∏√Ñ8W√Ñ√Ñ|¬°√Ñ8s√Ñ√Ñ|¬´√Ñ8√Ñ√Ñ8√Ö√Ñ$8√á√Ñ8√¨√Ñ
+8√¥√Ñ√Ñ|‚Ä¶√Ñ√Ñ|√Ä√Ñ√Ñ|√É√Ñ8¬ß√Ñ√Ñ8‚Ä¢√Ñ
+√Ñ|≈ì√Ñ8‚Ñ¢√Ñ
+8¬¥√Ñ%√Ñ|‚Äî√Ñ8‚àû√Ñ√Ñ|‚óä√Ñ8¬°√Ñ√Ñ|√ø√Ñ8Ô¨Å√Ñ√Ñ|‚ÅÑ√Ñ8√î√Ñ√Ñ|‚Ç¨√Ñ9
+√Ñ%9√Ñ9√Ñ
+9%√Ñ√Ñ|‚Ä∫√Ñ90√Ñ√Ñ91√Ñ
+√Ñ|‚Äû√Ñ96√Ñ
+97√Ñ&√Ñ98√Ñ√Ñ|√Ç√Ñ√Ñ9≈í√Ñ√ÑyS√ÑyT√Ñ√ÑyU√Ñ√ÑyV√Ñ√Ñyp√Ñ√Ñy√°√Ñ}√Ñ9‚ÅÑ√Ñ√Ñ9‚Ç¨√Ñ'9‚Äö√Ñ(9√é√Ñ):√Ñ)}√Ñ*::√Ñ):D√Ñ+:E√Ñ':V√Ñ*:p√Ñ,:q√Ñ':}√Ñ*:√•√Ñ,:√ß√Ñ':√∂√Ñ*:¬Æ√Ñ,:¬©√Ñ':√¶√Ñ*:‚Äò√Ñ,√Ñ:‚Äô√Ñ':‚Äπ√Ñ(:‚Äû√Ñ':√è√Ñ*:Àõ√Ñ,√Ñ:Àá√Ñ';√Ñ(;√Ñ';√Ñ*;)√Ñ,;*√Ñ';7√Ñ*;E√Ñ-√Ñ;F√Ñ}√Ñ√Ñ}
+√Ñ√á√∑√Ñ√Ñ√â√Ñ√Ñ√â
+√Ñ√Ñ√â$√Ñ√Ñ√â&√Ñ√Ñ√âX√Ñ√Ñ√â_√Ñ√â‚ÅÑ√Ñ√Ñ;_√Ñy‚Ä†√Ñ√Ñy¬∞√Ñ√Ñ} √Ñ√Ñz*√Ñ√Ñ})√Ñ√ÑzP√Ñ{$√Ñ√Ñ{%√Ñ;b√Ñ;c√Ñ.;d√Ñ/;√É√Ñ0;‚Äî√Ñ.;‚Äú√Ñ/;Àú√Ñ1√Ñ{d√Ñ/{i√Ñ.<√Ñ2<√Ñ/<6√Ñ1√Ñ<7√Ñ/<H√Ñ.<V√Ñ/<v√Ñ3√Ñ{r√Ñ√Ñ<w√Ñ√Ñ=y√Ñ√Ñ=√©√Ñ
+√Ñ}.√Ñ√Ñ=√±√Ñ√Ñ=√≤√Ñ
+√Ñ}2√Ñ√Ñ=‚Ä†√Ñ
+√Ñ}3√Ñ√Ñ=¬ß√Ñ√Ñ>g√Ñ
+√Ñ}6√Ñ√Ñ>m√Ñ√Ñ>o√Ñ
+√Ñ}:√Ñ√Ñ>v√Ñ
+√Ñ};√Ñ√Ñ>z√Ñ√â‚Ç¨√Ñ√Ñ>√Ñ√Ñ√Ñ}>√Ñ√Ñ>‚Ç¨√Ñ√Ñ√¢√ø√Ñ>√à√Ñ√Ñ√â‚Ä∫√Ñ√Ñ>Ô£ø√Ñ√Ñ√â√ã√Ñ√Ñ√â√é√Ñ√Ñ√âÀö√Ñ√Ñ√â¬∏√Ñ√Ñ√âÀù√Ñ√Ñ√âÀá√Ñ√Ñ√ë√Ñ√Ñ√ë√Ñ√Ñ√ë√Ñ√Ñ√ë√Ñ√Ñ√ë
+√Ñ√Ñ√ë√Ñ√Ñ√ë"√Ñ√Ñ√ë-√Ñ√Ñ√ë.√Ñ√Ñ√ë9√Ñ√Ñ√ëÔ¨Å√Ñ√Ñ√ñS√Ñ√Ñ√ñb√Ñ√Ñ√ñ√Æ√Ñ>√í√Ñ√Ñ{s√Ñ√Ñ>√ö√Ñ√Ñ?‚àû√Ñ
+√Ñ}B√Ñ√Ñ}F√Ñ√Ñ}H√Ñ√Ñ}S√Ñ√Ñ?‚àö√Ñ√Ñ?Àú√Ñ
+√Ñ}T√Ñ√Ñ?Àö√Ñ√Ñ?Àõ√Ñ
+√Ñ}X√Ñ√Ñ@√Ñ√Ñ}\√Ñ√Ñ@6√Ñ√Ñ√ñ√Ø√Ñ@L√Ñ@P√Ñ√Ñ√ñ√±√Ñ√Ñ√ñ¬µ√Ñ√Ñ√¢‚Ä°√Ñ√ú‚Ä∞√Ñ√Ñ√ú√å√Ñ√ÑDz√Ñ√Ñ√°√Ñ√Ñ√°#√Ñ√Ñ√°7√Ñ{√¨√ÑD¬∞√Ñ√ÑD¬¢√Ñ4{‚â†√Ñ5D√ü√Ñ6√ÑD¬∫√Ñ7√Ñ{‚â•√Ñ8D√∏√Ñ7{¬•√Ñ8√ÑD√Ä√Ñ7√Ñ{¬µ√Ñ8D‚Äò√Ñ7{‚àÇ√Ñ8√ÑD‚Ç¨√Ñ7√Ñ{‚àë√Ñ8D√Ç√Ñ7{‚àè√Ñ8√ÑD√ì√Ñ7D√õ√Ñ7{¬™√Ñ8√ÑDÀò√Ñ7√Ñ{¬∫√Ñ8E√Ñ7√Ñ{Œ©√Ñ8√ÑE
+√Ñ7{‚àö√Ñ8√ÑE√Ñ7√Ñ{∆í√Ñ8E√Ñ7{‚âà√Ñ8√Ñ{‚àÜ√Ñ8E √Ñ7√Ñ√°~√Ñ9D¬™√Ñ7E+√Ñ:√ÑE,√Ñ4E3√Ñ;E9√Ñ<E4√Ñ<EX√Ñ=√ÑEY√Ñ4{¬´√Ñ5Ec√Ñ6Ep√Ñ<El√Ñ<E}√Ñ=√ÑE~√Ñ4E√§√Ñ;E√™√Ñ<E√£√Ñ<E¬µ√Ñ=√ÑE‚àÇ√Ñ4E¬ø√Ñ;E‚âà√Ñ<E¬°√Ñ<E‚Äô√Ñ=√ÑE√∑√Ñ4EÔ¨Ç√Ñ;E‚Ä∞√Ñ<E‚Ä°√Ñ<E√í√Ñ=√ÑE√ö√Ñ4EÀù√Ñ;F√Ñ<EÀõ√Ñ<F√Ñ=√ÑF√Ñ4F√Ñ;F
+√Ñ<F√Ñ<FH√Ñ=√ÑFI√Ñ4FU√Ñ;FZ√Ñ<FV√Ñ<Fg√Ñ=√ÑFh√Ñ4Fs√Ñ;Fy√Ñ<Ft√Ñ<F√£√Ñ=√ÑF√•√Ñ4F√´√Ñ;F√≤√Ñ<F√≠√Ñ<F‚àÜ√Ñ>√Ñ√¢L√ÑF‚Ä∞√Ñ√Ñ√¢Z{¬ª√ÑF√í√Ñ√Ñ√°√â√Ñ√ÑGW√Ñ√Ñ√°√ú√ÑGj√Ñ?√Ñ{≈ì√Ñ√ÑGk√Ñ?√Ñ{‚Äì√ÑIH√Ñ?√Ñ{√î√ÑJ√Ñ√Ñ?√Ñ√°√≤√ÑK¬µ√Ñ?L√Ø√Ñ√Ñ√¢bL¬∞√Ñ√Ñ|-√Ñ√ÑL‚Ñ¢√Ñ
+√Ñ}h√ÑL√Ç√Ñ@√ÑM.√Ñ@√Ñ}√á√ÑA√Ñ}√ª√Ñ?MA√Ñ@√Ñ√°√¥√Ñ√Ñ√°‚Ñ¢√Ñ√Ñ√°¬´√Ñ√Ñ√°¬†√Ñ√Ñ√°≈ì√Ñ√Ñ√°√∑√Ñ√Ñ√°‚óä√Ñ√Ñ√°√î√Ñ√Ñ√†√Ñ√Ñ√†√Ñ√Ñ√†√Ñ√Ñ|L√Ñ?MK√Ñ@√Ñ√†2√Ñ√Ñ√†=√Ñ√Ñ√†c√Ñ√ÑML√ÑB√Ñ√†k√Ñ√Ñ√†m√Ñ√Ñ√†√Ö√Ñ√Ñ√†¬ø√ÑMv√Ñ@√Ñ|M√Ñ?√ÑM~√Ñ@√Ñ|N√Ñ?M√á√Ñ@√ÑM√í√ÑBNH√Ñ@√Ñ√¢o√ÑN√ë√Ñ@√Ñ√¢p√ÑN√†√Ñ@√ÑN√¢√ÑBN‚Ä¶√Ñ@√ÑN√è√ÑB√ÑO√Ñ@|O√Ñ?|P√Ñ√Ñ√¢q|Z√Ñ√Ñ|[√Ñ√Ñ(E√Ñ√Ñ|^√Ñ√Ñ)√Ñ√Ñ|m√Ñ/j√ÑOU√Ñ<Accidents-Working PaperDavid LevinsonDavid Levinson

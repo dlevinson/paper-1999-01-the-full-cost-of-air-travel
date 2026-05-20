@@ -1,0 +1,185 @@
+CHAPTER FIVE: AIR TRAVEL COSTS
+The full cost (FC) of an intercity air trip will be composed of the airport costs including construction (ICC) and operation and maintenance of terminals and airside facilities (IOC), plus the cost of providing services by the air carrier (CC) plus the costs of providing air traffic control (ATC) and air navigation costs (ANS) by the FAA plus the social costs of air pollution (SPC), noise (SNC), congestion (SCC), accidents (SAC), and user time costs (UTC). This is represented below as:
+ EMBED "Equation" \* mergeformat
+
+Airway Infrastructure & Operating Costs
+The FAA provides several user groups with essentially four services. these include air route traffic control centers, terminal radar control areas, air traffic control towers and flight service stations. In a study undertaken for the FAA (see Golaszewski (1987) and US Government 1987 and 1992) the unit costs of FAA services were estimated and an allocation among user groups was undertaken. The study differed from all previous approaches to cost measurement and allocation in that cross-sectional statistical cost functions were used to estimate the cost of providing specific services to specific classes of people by facility type. The major weakness of the study was the inability to include measures of capital costs, however, given the age of the airway system capital it is not clear that our estimates will be significantly biased. The reasoning is that with ‚Äòvintage‚Äô capital, the capital-labor ratio will be lower than with newer capital. Thus, what we miss in capital cost will show up in operating costs. Ideally, however, we would like to have an economic measure of annual capital costs included in the cost function.
+Golaszewski (1987) provides a detailed description of the construction of the cost estimates for ATC services for four types of services/facilities; air route traffic control centers (ARTCC), terminal radar control areas (TRACON), air traffic control towers (ATCT) and flight service centers (FSS). These services are provided to different user groups or beneficiaries and these groups have further sub-categories based on differing criteria. These are illustrated in Table 5.1 with assigned cost allocations for two years (FAA, 1992).
+Table 5. SEQ Table_5. \* ARABIC 1:  Allocation of Costs by Detailed User group
+User Group1985 Share1991 Cost ($ M)Air Carrier60%62%$5,021 Domestic42%41%$3,300 International2%2%$189 Freight2%2%$171 Commuter17%$1,361 General Aviation27%26%$2,143 3%3%$216 Piston13%$1,009 Turbine10%10%$817 Rotorcraft1%1%$101 Public Sector13%12%$973 Civil Aviation1%1%$47 Military11%10%$871 Public Interest1%1%$55 Source: US Government FAA Report 1992
+Our interest is primarily in the domestic air carrier user group. This, of course, means that we need to determine what proportion of the costs are ‚Äòattributable‚Äô to this group. The detailed cost allocation, by detailed user group is contained in Table 5.2. These cost categories formed the basis of the ATC cost functions. However, ATC equipment and maintenance costs, R&D Expenditures and general overhead were not included in the variable cost estimates and allocated across users on a Ramsey pricing basis. As Golaszewski (1987) reports the major cost categories included were site labor costs, site maintenance costs and site communications costs. He also reports that the reason no capital costs were included was that the FAA expenses the capital cost in the year of purchase.
+The marginal cost estimates are developed from calibrating several linear cost functions for each of the four categories identified above. The empirical results are not reproduced here only the tables which identify the marginal and unit cost measures. It is these measures which are aggregated in the full cost measure.  The estimates are based on a series of calibrated linear cost functions which are estimated as statistical multiple-output cost functions. There are several weaknesses in these estimates including the failure to include input costs, a size measure to control for heteroskedasticity or a measure of traffic density.
+
+Table 5. SEQ Table_5. \* ARABIC 2:  Cost Allocation by Detailed User Group and Expense Category
+TotalAC
+DomAC
+Int‚ÄôlAC
+FrtAC
+CommAir
+taxiDirect Cost-Public Interest24.70.00.00.00.00.0Navaid Maintenance388.3138.17.010.050.0Safety Regulation126.844.37.23.28.0ARTCC566.1229.312.545.414.0Towers113.08.00.910.19.4525.78.815.6104.910.4FSS239.510.50.50.814.214.7Total Operations1984.1632.131.546.1254.070.0Facilities & Equip1358.0671.434.347.9215.427.6265.0158.07.911.456.12.4AIP Grants924.7477.535.50.792.55.2Total Dir Costs4531.91939.0109.2617.8105.2Indirect Costs703.7237.012.016.895.226.5Total Costs5235.6121.2122.8713.0131.7
+GA PistGA-TurbRotorCiv-govMilPub-intDirect Cost-Pub Int0.00.00.00.019.1Navaid maint42.741.76.32.976.10.0Safety Regulation16.113.92.11.06.60.0ARTCC35.186.90.03.1123.80.0Towers42.514.28.42.416.60.0TRACONS79.412.87.22.183.10.0FSS137.620.410.53.127.30.0Total Operations353.5189.814.619.1Facilities & Equip67.88.16.0162.20.0R&D7.98.60.90.511.30.0164.0129.16.84.09.50.0Total Dir Costs593.1444.950.325.1522.019.0Indirect Costs89.813.55.7125.86.1Total Costs520.130.7647.825.2
+
+Tables 5.3, 5.4 and 5.5 report the cost calculations estimated by Golaszewski (1987. Where necessary we have adjusted the dollar magnitudes to 1994 $‚Äôs and these are clearly indicated in the table. In Table 5.3 marginal, joint and total costs are provided for four user groups. Only the values for ‚Äòair carrier‚Äô will enter our calculations. The ‚Äòmarginal cost‚Äô calculation would be used in the calculation of short run marginal costs while the total variable costs would be used in the unit cost calculation.
+Table 5. SEQ Table_5. \* ARABIC 3: ATC: Marginal and Joint Costs by Facility and User Group
+Facility TypeAir Carrier ($1994 M)CommuterGeneral AviationMilitaryARTCC Marginal Costs$297.64 $119.4 $103.8 ARTCC Joint Costs$57.30 $7.3 $19.4 $20.0 ARTCC Total Variable Costs$354.94 $45.4 $139.0 $123.8 FSS Marginal Costs$13.64 $12.0 $167.6 $22.9 FSS Joint Costs$2.62 $2.3 $18.6 $4.3 FSS Total Variable Costs$16.25 $14.2 $186.2 $27.3 TRACON Marginal Costs$206.32 $69.6 $87.5 $55.1 TRACON Joint Costs$104.952 $35.4 $24.3 $28.0 TRACON Total Variable Costs$311.280 $105.0 $111.8 $83.1 ACTCC Marginal Costs$2.89 $2.3 $33.7 $3.7 ACTC Joint Costs$10.05 $7.8 $43.0 $12.8 ACTC Total Variable Costs$12.95 $10.1 $76.7 $16.6 Marginal Cost Proportion74.9%69.8%79.5%74.0%Source: Golaszewski (1987); note: (1985 $M) (except air carriers, 1994 $M)
+
+Table 5. SEQ Table_5. \* ARABIC 4:  Development of ATC System Costs
+Cost CategoryAir Carrier ($1994 M)CommuterGeneral AviationMilitarySite Marginal Costs$377.9 $408.2 $185.5 Site Joint Costs$127.0 $52.8 $105.5 $65.1 ATC equipment maintenance$155.0 $50.0 $107.1 $76.1 not allocated to SitesFacilities & Equipment$753.6 $215.3 $226.8 $150.8 Research & Development$56.1 $20.3 $11.8 General Overhead$239.0 $185.2 $121.3 Estimated ATC System Costs$1,829.8 $578.2 $1,053.1 $610.1 Marginal Costs % of Total Costs20.7%21.1%38.8%30.4%Total Cost Factor4.834.742.583.29Source: Golaszewski (1987); note: (1985 $M) (except air carriers, 1994 $M)
+
+In the calculations of the long run costs we use the values contained in Table 5.5. These values have been increased to ensure all costs are covered and are equivalent to an assumption of constant long run average and marginal costs
+Table 5. SEQ Table_5. \* ARABIC 5:  Approximate Unit Total Costs of ATC Services
+Facility TypeOutput TypeAir Carrier
+($1994 M)CommuterGeneral AviationMilitaryARTCCIFR Departure$185.33 $132.06 $65.17 $140.15 Over$92.67 $66.02 $32.59 $70.08 TRACONOperation, Second $60.67 $8.88 $42.11 & OverACTCOperation$52.63 $8.82 $3.72 $14.64 FSSPilot brief$45.63 $32.52 $17.70 $22.57 IFR Flight Plan$45.63 $32.52 $17.70 $22.57 VFR Flight Plan$91.00 $64.84 $35.29 $45.00 Air Contact$25.74 $18.34 $9.98 $12.73 The costs of using the airport resources can be divided into terminal costs and airside costs. The reason for dividing the two is that terminals are used by passengers and the costs are wholly attributable to commercial air services while the airside resources are a function of aircraft movements. Aircraft movements include scheduled commercial, commuter, general aviation, and military. Furthermore, the majority of aircraft also carry freight (cargo and mail) in their belly. We, therefore, have joint product and some portion of airside costs may be attributable to non-passenger outputs. As in the case of airway cost calculations we cannot allocate all of the airside costs to scheduled commercial [passenger] air services. In order to determine the appropriate allocation we estimate economic cost functions in which the airside costs are regressed on each type of movement. The second distinction we make, as elsewhere, is short versus long run costs. In the former we treat existing infrastructure as non-congested and provide an estimate of servicing an additional passenger or additional movement. In the long run estimates we include a measure of the capital costs and thus the marginal and average cost figures are those associated with expansion of the airside (or terminal) system when additions to capacity must take place.
+Terminal Costs
+Our estimates of terminal costs were developed from data from twenty two large airports with each airport having data for a five year period. The total number of observations was, therefore, 110. We also had the added benefit of using a panel which reduces the problems associated with either exclusive time series or cross-sectional data.
+Tables 5.6 and 5.7 present the final estimates. Alternative functional forms as well as the inclusion of dummy variables for some airports were included in the estimations but were insignificant in the final outcome. The simple arithmetic relationship had the best statistical fit. In table 5.6 the constant term is significant, indicating the presence of fixed costs and the parameter estimates on the linear and second order term are both statistically significant at the 5 percent level. The results indicate that short run marginal costs are rising at a relatively constant rate; the second order coefficient is non-significant. The marginal cost per passenger is $1.62 while the average cost per passenger would be (924358/#passengers) + $1.62. Since marginal is less than average cost it implies there are some cost economies with increasing passengers. Interestingly, the calculated average variable cost per passenger was $4.25.
+
+Table 5. SEQ Table_5. \* ARABIC 6: Terminal Short Run Cost Relationship
+Dependent variable:Mean of dependent variableAdjusted R-squared.934831F-statistic (zero slopes)173.137Log of likelihood function-376.417
+Estimated Coefficient     Standard Error       t-statisticC         924358.      3.14183 PAX       1.63558       3.07085 PAXSQ     .365951E-061.79029
+The long run cost relationship is illustrated in Table 5.7 in which total costs, capital plus operating costs, were regressed on values for passengers. Again the model which had the best statistical fit was the simple linear model. In our estimates neither the second order term nor the constant term were statistically significant. At the sample mean the long run marginal cost per passenger is equal to the long run average cost per passenger. The estimates of the long run cost are $5.72 per passenger. Simple averages taken from the sample, total costs divided by the number of passengers was $7.45 per passenger.
+We also undertook a simple examination of the composite airport costs, airside plus terminal. The simple averages were; $5.99 AVC per passenger and $201.99 per movement. These are numbers which are used frequently when illustrating differences between air and other modal costs. However, these numbers are biased in that they reflect composite outputs and have not taken into consideration full cost responsibility across outputs for terminals and airside facilities.
+How do these numbers compare with previous estimates? There are relatively few investigations against which to compare our work. In 1979, Morrison, reported estimates which he had developed during his thesis work. The values he calculated were for airside facilities only. He estimated the [short run] marginal cost of an air carrier operation was $12.34 when this is expressed in 1994 dollars, the figure is $25.34. This figure would be compared against our cost per movement which we develop below. The only other study we have found was undertaken by the Royal Commission on National Passenger Transportation in Canada in the period 1990-1993. In their report, Directions, they used an engineering approach to develop a measure of $14.00 CAN per passenger for terminal services. This figure in 1994 US $‚Äôs is $10.24. This would be comparable to our measure of $5.72 per passenger.
+Dependent variable:Mean of dependent variable.7452284E+07Adjusted R-squared.820163F-statistic (zero slopes)55.7271Log of likelihood function -366.985
+Estimated Coefficient     Standard Error       t-statistic C         118849.      .589101 PAX       5.72460      4.72199 PAXSQ     -.139461E-06.899338E-07-1.55071Airside Costs
+We undertook a similar analysis for estimates of airside costs. In this case we wanted to be able to both establish a measure of the appropriate short and long run costs but also an allocation of costs across the different user groups. The estimates were developed from our sample of 22 airports. As before we estimated parameters on the basis of a ‚Äòvariable‚Äô cost model in which capital [capacity] is considered a quasi-fixed factor of production and the adjustments to output are made using the variable factors, hence variable costs. In a subsequent model we used measures of total cost, capital plus operating, and estimated the long run cost relationships.
+Table 5.8 reports our estimates for the short run model. Total operating and maintenance costs was regressed on numbers of movements for scheduled air carrier, commuter and general aviation (Total IFR & VFR) as well as airport specific dummy variables. We also investigated second order terms but they were not statistically significant. The simple linear model seemed to perform as good or better than any other. The short run marginal cost of a scheduled air carrier movement is $81.87, for a commuter carrier it is $17.87 and for general aviation it is $12.57. Using the data from the US airports the measured simple average variable cost is $43.66 per movement; not distinguishing between general aviation, commuter and air carriers. Figures from Morrison‚Äôs study (1979) is $12.34 (in 1975 dollars), when this is expressed in 1994 dollars, the figure is $25.34..
+Table 5.9 reports the long run cost measures. The estimates used the sum of capital and operating costs and undertook a similar costing exercise as we did with the short run cost estimates. The long run marginal and average (since the constant term is not significant) cost  air carriers is $117.11, for commuters is $22.43 and for general aviation $17.08. For the latter two user groups there is a relatively small increase in the marginal cost from the short run estimates. It is also evident from the estimates that, like Morrison, we find evidence of constant returns to scale. This means that size does not confer an advantage nor disadvantage on the costs of airside facilities. However, this is not true in the case of terminals where we find some evidence of falling costs with capacity utilization. Interestingly, when one calculates the simple average total cost we obtain a figure of $93.84.
+Dependent variable:R-squared .884481Adjusted R-squared .855601F-statistic (zero slopes) 30.6263Log of likelihood function -297.413
+Estimated Coefficient     Standard Error       t-statistic C         -297116.     -1.02SCHED     81.87       4.13COMMUT    17.57      (((((TOTGA   12.495.09142       2.45‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°TOTCSTSR-squared.873691‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°‚é°F-statistic (zero slopes) 27.6684Log of likelihood function 
+
+ Variable  Standard Error       t-statistic
+
+
+
+
+
+
+
+
+
+
+
+-271559.      576163.       -.471 SCHED     117.1058       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.963
+ COMMUT    22.43706      8.44128       2.658 TOTGA     17.0825      10.1625       1.681
+Carrier Costs
+In the carrier cost model the basic unit of the cost analysis is the flight segment. In describing the carrier‚Äôs cost we distinguish costs which vary by segment and those which vary by route. In many cases the source of the difference in costs will be in the airline system or station (airport costs). For example, if carrier J were to extend its operation from point B to point C, in an AB market, the additional costs would be increased by the flight operating costs and some passenger costs but since it was already using the airport at B, the cost of adding operations from this station may be relatively small.
+The cost analysis has two objectives in this research.  First, it provides information about marginal cost per passenger which influences price (passenger fare = cost plus markup). Second, it provides total cost of flight segment which is used to compute profit for specific carrier-segment combination.
+Measurement of Fareclass
+Since costs are different between fareclasses, it is necessary to estimate the cost of each fareclass by carrier and by flight segment.  However, in the long run carriers allocate total usable space in a plane between fareclasses (First, Business and Economy seats) in such a way to equalize the marginal revenues per square foot for all fare categories. Therefore, given knowledge of the physical space required to put a seat of each class and the optimal load factors for each fare class,  it is possible to convert passengers of all classes into a scaler (standard class equivalent) for costing purpose.  For example,  for a carrier-segment combination (henceforth referred to simply as ‚Äòsegment‚Äô) the passenger volume  can be scalarized as:
+(5.  STYLEREF 1 \n 3. SEQ (5. \* ARABIC \r 1 1)	 EMBED Equation.2
+
+In order to compute a carrier‚Äôs total cost on a segment, say S, it is necessary to identify the total traffic volume using that segment by aggregating all O-D traffic traveling via segment S as follows:
+(5.  STYLEREF 1 \n 3. SEQ (5. \* ARABIC 2)	 EMBED Equation.2
+where YS is the total traffic volume on segment S, and qrOD is the O-D demand volume choosing route r and is computed from the demand model.
+Measurement of Segment Cost
+The segment cost has two components: the costs which vary with passengers and flights, and those which remain unchanged.  The latter consists of some portion of airport costs and the indirect costs of the carrier to be allocated to the segment. Therefore, the segment cost (C) can be written as:
+(5.  STYLEREF 1 \n 3. SEQ (5. \* ARABIC 3)	C  = As + Cs( Y , F)
+As  = segment cost which does not vary with passenger volume (Y) or flight frequency (F),
+Cs( Y, F) = segment cost which varies with Y and F.
+Two simply alternative specifications for the segment cost function are represented in equations 5.3.4 and 5.3.5.
+(5.  STYLEREF 1 \n 3. SEQ (5. \* ARABIC 4)	C (‚Ä¢) =  As + b1Y + b2 F +b3 Y F
+(5.  STYLEREF 1 \n 3. SEQ (5. \* ARABIC 5)	C (‚Ä¢) =  a  Yb1  F b2
+The total variable cost of segment S, cs(Y, F), consists of two components: the costs related to operating aircraft, and the costs associated with passenger handling at the airports and a portion of indirect and administration costs related to number of passengers and flight frequency.
+The cost associated with operating aircraft on a segment (henceforth referred to as flying operations cost (FOC) . FOC can be measured by adding the cost per block hour multiplied by the number of block hours required for the flight segment:
+(5.  STYLEREF 1 \n 3. SEQ (5. \* ARABIC 6)	FOCs = Bs ‚Ä¢ Hs  ‚Ä¢ f(Ys)
+where:
+Bs is cost per block hour for the aircraft used,
+Hs are the block hours required for segment S, and
+f(Ys ) is flight frequency which depends on number of passengers on segment, Ys .
+The indirect and administration costs related to a particular segment can be computed via the following procedure.
+Collect data for total indirect cost (IC) for a set of U.S. airlines from Form 41 data and transform it in the following way:
+IC = total operating expenses
+= flying operations costs + maintenance costs+ depreciation and amortization
+Regress IC on the following variables:
+ (5.  STYLEREF 1 \n 3. SEQ (5. \* ARABIC 7)	 IC 	= I (Y, RPK, F, S, W, D)
+				= a + c1 Y + c2 RPK +  c3 F  + c4 S + c5 W + c13 YF +  c15 YW  + 				c45 (S . W)+ ‚àë cfi Di
+where:
+ Y is firm‚Äôs total number of passenger enplanements,
+RPK is total revenue-passenger-kilometers (or RPM),
+F is the total number of revenue flight departures performed,
+S is the number of route segments served,
+W is input price index, and
+D are firm dummy variables.
+Evaluate the following expression in order to calculate incremental indirect cost of adding a route segment s:
+‚àÜ IC = I ( Y +‚àÜY, RPK+‚àÜRPK, F + ‚àÜF, S+1, W, D)
+(5.  STYLEREF 1 \n 3. SEQ (5. \* ARABIC 8)	I (Y, RPK, F, S, W, D)
+The segment total cost function in (5.3) can now be obtained by adding equations (5.3.6) and (5.3.8).
+(5.  STYLEREF 1 \n 3. SEQ (5. \* ARABIC 9)	C( Ys, fs) =FOCs  +‚àÜ IC =[ 1+{(L / LB) -1}] BB  Hs  f(Ys)  +‚àÜ IC
+Using information from the FORM 41 data for a set of eight major US carriers we estimated short and long run cost functions. The short run cost takes the existing capital stock of a carrier as given and estimate the marginal cost of adding a passenger, evaluated on the average. This is akin to the variable cost function estimates obtained in Gillen, Oum and Tretheway, 1992). The long run cost function estimation treated the capital costs as fully variable and the marginal cost estimates include variation in flight capital.
+Table 5.3.1 reports the block-hour costs for each type of aircraft which would be most likely used on domestic [California] routes. To this figure we need to add an amount which reflects the opportunity cost of the flight capital. The difference between these two figures is the difference between short and long run costs. In the table we have selected four representative aircraft. In the calculations we use an assumed load factor of 68% (Aviation Daily, 1995) and use in the calculations the values for the B737-300 series aircraft since this is the most popular on shorter haul domestic routes in California.
+Table 5. SEQ Table_5. \* ARABIC 10  Dollars per Block Hour (1995)
+B737-300B737-400B737-500MD-80Crew Cost456267506Fuel & oil425428484Rentals42358531911191211Taxes17
+2322Total Flying Operations133216081333Airframe Maintenance157126114Engine Maintenance116546074
+Maintenance Burden153135162119
+426315336329Depreciation9284118130Other22103434Total Block Hour Cost1872201815121826Avg Seats per Flight131144112139Avg Stage Length572662565775Op Cst per ASM (¬¢)4.113.983.93.64Price of Aircraft ($ M)27.931.627.5Source: Aviation Daily (1995), Aircraft prices from Air Finance Journal (June 1994).
+
+Table 5. SEQ Table_5. \* ARABIC 11: Cost of Aircraft Capital
+B737-400B737-500MD-80Price of Aircraft ($ M)27.926.827.5Annual Opportunity Cost of Capital at 7.5 percent $2,092,500.00  $2,010,000.00 Total Block Hours3759.53759.53759.53759.5Opportunity Cost per Block Hour $        556.59  $        630.40  $        534.65  $          0.008  $          0.009  $          0.008  $          0.008 
+The short run average and marginal cost is equal to the block hour cost x average load factor x (stage length/velocity). The long run average and marginal cost would include the short run values plus the cost of aircraft capital.
+
+Social Costs
+There are four types of externalities which must be included in the full cost measure of air transportation. These include noise, congestion delay, accident costs and air pollution externalities. these measures have been calculated in chapter 3 and are reproduced here for completeness.
+Noise Costs
+The valuation of the noise externality is based on a survey of international results, described in Chapter 3, which gives us a value of $0.0043/pkt.
+Congestion Delay Costs
+For airport delay the average delay equation is simply the average cost in units of minutes, as a function of operations and capacity (annual service volume), as discussed in Chapter 3:
+ACat = 0.19 + 2.33 (Qa/Qao)6
+
+where:
+Qa is the actual volume and
+Qao  is the annual service volume or airside capacity of the airport.
+
+Annual Service Volume (ASV) is calculated from an FAA model that takes into consideration the airport‚Äôs aircraft mix index, runway layout, percentage of time runways are used in a specific operating condition (e.g., northeast parallels in IFR weather), hourly runway capacity under that condition, and historic monthly traffic records.
+A question naturally arises as to the validity of a capacity model that has some airports regularly operating at levels substantially above their theoretical limit (La Guardia and Chicago O‚Äôhare, for example). Rather than try to defend the accuracy of the modeled capacities, we think that the resulting ASVs can be used to index airports by taking into account their differing physical, climatelogical, and operating conditions.
+The total cost is simply the average cost per unit multiplied by the number of units.
+Total delay Cost = Average delay Cost * Qa =  0.19 Qa + 2.33 (Qa/Qao)7
+The marginal is thus:
+Marginal Social Cost= ‚àÇTCa/‚àÇQa = 0.19 + 16.31 (Qa/Qao)6
+To operationalize this measure we used information from the series of airports which were included in the estimation of the airport costs. Each airport has annual service volume [ASV] figure and we used the average ASV across this panel. The average delay per flight is approximately 6.5 minutes. The total delay costs would then be calculated as 6.5 x number of passengers x value of time. With a $10/hr value of time this figure is $1.08.
+Accident Costs
+The air mode has been and continues to be the safest of the existing modes of transportation for intercity travel. The accident costs are therefore relatively small in comparison to other modes. If, for large airlines we have 0.0008 fatal accidents per million aircraft miles, an average number of passengers per flight of 100, an average of 13 deaths per fatal crash, and a value of life of $2.4 million, the cost for accidents on large aircraft can be calculated as $0.00025/PMT  or ($0.00042/ PKT) .  Taking more conservative values of life and including non-life costs (injury and medical, accident cleanup, etc.), and assuming a higher number of fatalities could quadruple the estimate to $0.001/PMT ($0.0017/ PKT)  were PMT is passenger miles traveled and PKT is passenger kilometers traveled of travel.
+Pollution Costs
+The cost of air pollution caused by air travel (basically the health damages from particulates, sulfur oxides, hydrocarbons, carbon monoxide, and nitrogen oxides, plus the greenhouse damages due to carbon) is $0.00087/pkt, as developed in Chaper 3.
+
+Composite Costs
+The total cost of air travel can now be summarized and summed by including all of values calculated above. Table 5.12 provides the full range of cost estimates, their units of measurement and any distinctions between short and long run values as well as differences in marginal and average values. In most cases there is little difference between marginal and average but there are differences in the short and long run. Once a stage length and aircraft are selected the values in this table can be used to obtain the full costs of air travel.  Table 5.13 summarizes this by passenger kilameter of travel.
+Table 5. SEQ Table_5. \* ARABIC 12: Full Costs of Intercity Air Travel
+Short RunLong RunMarginal CostAirways SystemARTCCIFR Departure$185.33 $185.33 $185.33 $185.33 TRACONper Operation$85.15 $85.15 $85.15 $85.15 ACTCper Operation$52.63 $52.63 $52.63 FSSIFR Flight Plan$45.63 $45.63 $45.63 $45.63 per Air Contact$25.74 $25.74 $25.74 $25.74 Airport InfrastructureTerminal Costsper pax$1.62 $1.62 $5.72 Airside Costsper movement$81.87 $81.87 $117.11 Carrier CostsBlock Hour Costsblock-hour$1,872.00 $1,872.00 Seats (assume 131)per seat$14.29 $14.29 $14.29 Op Cost per ASKper ASK $          0.03  $          0.03  $          0.03 Load Factor (assumed 68%)per RPK$0.04 $0.04 Indirect Costsper RPK $          0.06  $          0.06 Capital Costsper ASK $             -   $0.01 $0.01 per pax-km$0.0043 $0.0043 $0.0043 Congestionper pax$1.083 $1.083 $1.083 Accidentsper pax-km $     0.00042  $     0.00042  $     0.00042 per pax-km $     0.00087  $     0.00087  $     0.00087  $     0.00087 User Time Costs ($10/hr)per kilometer $       0.0114  $       0.0114  $       0.0114  $       0.0114 (at 877 KPH)
+
+Table 5. SEQ Table_5. \* ARABIC 13: Long Run Average Cost of Air in California Corridor
+Cost CategoryAverage CostInfrastructure: Airways (ARTCC)$0.0034$0.0015Infrastructure: Airways (ACTC)$0.0009Infrastructure: Airways (FSS)$0.0008Infrastructure: Airport Terminal$0.0094Infrastructure: Airport Airside$0.0022Carrier: Capital Cost (Planes)$0.0606Carrier: Operating Cost (airline operations)$0.0340$0.0004External: Congestion$0.0017External: Noise$0.0043External: Pollution$0.0009User: Time$0.0114Total Cost by Airnote: $/pkt
+
+Table 5.13 gives summary results of the full cost of air travel per passenger kilometer for the California corridor.  These costs, $79 for the trip from San Francisco to Los Angeles, are in line with fares in the corridor, currently $59, (and since the cost estimates include social costs and user time costs, they are expected to be higher than the fares, which only reflect cost to carriers, including the fleet and air system charges), and are less than high speed rail and highway travel, as expected.
+
+
+
+
+
+
+	3
+
+
+
+
+ Operating Site costs include labor, maintenance and leased communication cost at ARTCC, FSS, Towers and TRACON‚Äôs. Facilities and Equipment costs include capital expenditures to replace or improve airport and airway facilities and equipment. R&D include expenditures made by FAA on R&D programs to build and maintain a ‚Äòsafe efficient airport and airway system‚Äô. Airport Grants include development grants made to sponsors of primary, commercial services, reliever and GA airports. Navaid Maintenance and Regulatory costs are those incurred by the FAA in providing and maintaining navigational equipment NOT located at operating sites and of regulating airmen, aircraft operations and manufacturing and airports. Overhead costs included those for headquarters, regional administration and procurement.
+  The Ramsey method uses the inverse of the elasticity of demand for facility use to allocated overheads to obtain economically efficient prices.
+  The use of weighted least squares would be appropriate in the estimations but it is not clear from the discussion whether anything beyond OLS was employed.
+  See S. Morrison (1979), Optimal Pricing and Investment Policies for Airport Landing Areas (unpublished Ph.D. dissertation, department of Economics, University of California, Berkeley)
+
+2. The aircraft cost can be measured by adding the cost per block hour multiplied by the number of block hours required for the flight segment and a portion of the indirect airline costs which are attributable flight frequency (more on this later). Note that the block-hour costs need to be adjusted upward by the amount of interest cost on  the capital tied up in aircraft. It appears that the cost per block hour available in Form 41 data includes only the aircraft rentals paid for leased aircraft, and does not appear to include the interest cost on the owned aircraft.

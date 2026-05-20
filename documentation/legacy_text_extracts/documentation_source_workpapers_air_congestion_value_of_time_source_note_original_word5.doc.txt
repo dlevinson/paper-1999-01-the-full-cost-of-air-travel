@@ -1,0 +1,22 @@
+[	Weidner (1995) has estimated a logit model of route choice in the air travel market.  Two of the variables allow us to estimate the time equivalent of volume to capacity ratio for a simple linear relationship.  The coefficient for distance in the utility expression is -0.003764, the coefficient for the ratio of passengers to annual service volume (a hypothetical capacity measure for the airport‚Äôs physical runway system) is -0.01008.    At 500 miles per hour, the distance coefficient is equivalent to -1.882 units per hour.  A volume to capacity ratio of 1 reduces utility by -0.01008, or the equivalent of 30 seconds. ]
+
+	Roth (1993) has prepared the following table comparing the value of time in several recent high speed rail studies.
+TABLE: Range of Value of Time ($/hr) Results in Recent High Speed Rail Studies:
+StudyBusinessNon-BusinessRemarka.15-456-45varying by income from $20,000 - $60,00086-2018-4value of access/egress time, varying by total distance from 90-380 milesb. 35,2028,9for air,auto respectively24,1319,6access/egress time = 2/3 of line haul timec.65,43,4034,26,28for air,auto,rail respectivelyd.60,4030,15pre-selected VoT values, business: single-day, multi-day. Non-business: non-recreational, recreationalFAA1.0 - 1.5 x average wagebased on comprehensive review of studiessource: Roth (1993) p13 based on four HSR studies (not specified), FAA (1989)
+
+}~ence of infrastructure.
+
+Ecology		Noise			Production		Ecosystem Severance
+			Air, Water, Soil	Disposal
+
+Social		Accidents		Use of Space		Visual Annoyance
+						Parking		Community Barrier
+
+Intra-Sectoral	Congestion
+
+			Vehicle 		Vehicle
+			in Motion		Not in Motion	Infrastructure
+Are there external benefits of transportation?  Verhoef argues no:  Lower productist:]√≠√≥ÀõÀõ¬Ø
+"MNQZc√á√â√ú√•√≠ÀòÀôÀõAÀöƒ±Àöƒ±ƒ±√ì√ì√ì√ì√Ä√ì√ì√ì√ì¬Æ√ì√ì√ì√ì¬Æ√ì√ì√ì√ì¬Æ√ì√ì√ì√ì¬Æ√ì√ì√ì√ì¬Æ¬∞¬∞¬∞√∂¬Æ¬∞√¨¬∞√•‚Äì
+"√ë√ò¬¨√ä(√≠(ÀÜ)+|+}HHÀô@Àá√íÀá√ì	Rt(¬∏ÀùHH
+g	`¬∏'Àá√íÀá√ì	R=‚Ä°/‚Äì‚Ä†‚Ä†‚ÄìBTimes√Ñ√´√´	√Ñ√Ñ√´(uÀõ(¬†%David LevinsonDavid Levinson

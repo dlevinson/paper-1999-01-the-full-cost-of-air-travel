@@ -1,0 +1,16 @@
+source_path,decision,category,reason
+/Users/dlev2617/Documents/~~Archives/Berkeley/Berkeley Work/Full Cost Project/C7 Conclusion/STUFF/Distances and Volumes,excluded,correspondence,email-style HSR demand note with personal contact text; not needed for the air paper package
+/Users/dlev2617/Documents/~~Archives/Berkeley/Berkeley Work/Full Cost Project/DRAFTS/Draft Final Report Ver. 1.0,excluded,superseded_report,broad report draft superseded by final report PDF and final Chapter Five source
+/Users/dlev2617/Documents/~~Archives/Berkeley/Berkeley Work/Full Cost Project/DRAFTS/Chapter 5 - Air Costs Section,excluded,superseded_report,earlier air chapter version superseded by final report Chapter Five source
+/Users/dlev2617/Documents/~~Archives/Berkeley/Berkeley Work/Full Cost Project/FC Master/C5 - Air,excluded,superseded_report,master chapter version superseded by final report Chapter Five source for this package
+/Users/dlev2617/Documents/~~Archives/Berkeley/Berkeley Work/Full Cost Project/FC Master/Chapter5-Addendum,excluded,superseded_report,addendum/background version not needed once final chapter and source workpapers are staged
+/Users/dlev2617/Documents/~~Archives/Berkeley/Berkeley Work/Full Cost Project/DRAFTS/CostAllocationBiblio,excluded,background_notes,"background bibliography, not paper-specific data or code"
+/Users/dlev2617/Documents/~~Archives/Berkeley/Berkeley Work/Full Cost Project/DRAFTS/CostAllocationStructure,excluded,background_notes,"background cost-allocation memo, not paper-specific data or code"
+/Users/dlev2617/Documents/~~Archives/Berkeley/Berkeley Work/Full Cost Project/EMAIL,excluded,correspondence,source correspondence folder intentionally excluded
+/Users/dlev2617/Documents/~~Archives/Berkeley/Berkeley Work/Full Cost Project/Searches,excluded,search_intermediates,search/intermediate notes intentionally excluded
+/Users/dlev2617/Documents/~~Archives/Berkeley/Berkeley Work/Full Cost Project/Models/NoiseModel/HNoiseModel.123,excluded,other_mode_model,"highway noise model belongs with highway/social-cost packages, not this air-cost package"
+/Users/dlev2617/Documents/~~Archives/Berkeley/Berkeley Work/Full Cost Project/Models/NoiseModel/RNoiseModel.123,excluded,other_mode_model,"rail noise model belongs with rail/social-cost packages, not this air-cost package"
+/Users/dlev2617/Documents/~~Archives/Berkeley/Berkeley Work/Full Cost Project/Models/NoiseModel/RNoiseModel.XLS,excluded,other_mode_model,"rail noise model belongs with rail/social-cost packages, not this air-cost package"
+/Users/dlev2617/Documents/~~Archives/Berkeley/Berkeley Work/Full Cost Project/Models/CongestionModels/HCongestionModel.123,excluded,other_mode_model,"highway congestion model belongs with highway/social-cost packages, not this air-cost package"
+/Users/dlev2617/Documents/~~Archives/Berkeley/Berkeley Work/Full Cost Project/C4 Highway,excluded,other_mode_materials,highway-specific Full Cost materials belong with highway Full Cost packages
+/Users/dlev2617/Documents/~~Archives/Berkeley/Berkeley Work/Full Cost Project/DRAFTS/Chapt 6 HSR Costs,excluded,other_mode_materials,high-speed-rail chapter material belongs with HSR/full-cost comparison packages
